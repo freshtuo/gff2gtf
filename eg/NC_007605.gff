@@ -1,0 +1,613 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_007605.1 1 171823
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10376
+NC_007605.1	RefSeq	region	1	171823	.	+	.	ID=id0;Dbxref=taxon:10376;Is_circular=true;gbkey=Src;genome=genomic;mol_type=genomic DNA;old-name=Human herpesvirus 4;strain=B95-8
+NC_007605.1	RefSeq	region	151555	311546	.	+	.	ID=id1;gbkey=Src
+NC_007605.1	RefSeq	gene	58	166458	.	+	.	ID=gene0;Dbxref=GeneID:17494212;Name=LMP2;gbkey=Gene;gene=LMP2;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	CDS	166103	166458	.	+	0	ID=cds0;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401631.1,GeneID:17494212;Name=YP_401631.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2A;protein_id=YP_401631.1
+NC_007605.1	RefSeq	CDS	58	272	.	+	1	ID=cds0;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401631.1,GeneID:17494212;Name=YP_401631.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2A;protein_id=YP_401631.1
+NC_007605.1	RefSeq	CDS	360	458	.	+	2	ID=cds0;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401631.1,GeneID:17494212;Name=YP_401631.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2A;protein_id=YP_401631.1
+NC_007605.1	RefSeq	CDS	540	788	.	+	2	ID=cds0;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401631.1,GeneID:17494212;Name=YP_401631.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2A;protein_id=YP_401631.1
+NC_007605.1	RefSeq	CDS	871	951	.	+	2	ID=cds0;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401631.1,GeneID:17494212;Name=YP_401631.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2A;protein_id=YP_401631.1
+NC_007605.1	RefSeq	CDS	1026	1196	.	+	2	ID=cds0;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401631.1,GeneID:17494212;Name=YP_401631.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2A;protein_id=YP_401631.1
+NC_007605.1	RefSeq	CDS	1280	1495	.	+	2	ID=cds0;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401631.1,GeneID:17494212;Name=YP_401631.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2A;protein_id=YP_401631.1
+NC_007605.1	RefSeq	CDS	1574	1680	.	+	2	ID=cds0;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401631.1,GeneID:17494212;Name=YP_401631.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2A;protein_id=YP_401631.1
+NC_007605.1	RefSeq	CDS	59	272	.	+	0	ID=cds1;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401632.1,GeneID:17494212;Name=YP_401632.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2B;protein_id=YP_401632.1
+NC_007605.1	RefSeq	CDS	360	458	.	+	2	ID=cds1;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401632.1,GeneID:17494212;Name=YP_401632.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2B;protein_id=YP_401632.1
+NC_007605.1	RefSeq	CDS	540	788	.	+	2	ID=cds1;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401632.1,GeneID:17494212;Name=YP_401632.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2B;protein_id=YP_401632.1
+NC_007605.1	RefSeq	CDS	871	951	.	+	2	ID=cds1;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401632.1,GeneID:17494212;Name=YP_401632.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2B;protein_id=YP_401632.1
+NC_007605.1	RefSeq	CDS	1026	1196	.	+	2	ID=cds1;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401632.1,GeneID:17494212;Name=YP_401632.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2B;protein_id=YP_401632.1
+NC_007605.1	RefSeq	CDS	1280	1495	.	+	2	ID=cds1;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401632.1,GeneID:17494212;Name=YP_401632.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2B;protein_id=YP_401632.1
+NC_007605.1	RefSeq	CDS	1574	1680	.	+	2	ID=cds1;Parent=gene0;Dbxref=GOA:P13285,InterPro:IPR010881,PDB:1UXS,PDB:1UXW,PDB:2JO9,PDB:3BVN,UniProtKB/Swiss-Prot:P13285,Genbank:YP_401632.1,GeneID:17494212;Name=YP_401632.1;gbkey=CDS;gene=LMP2;product=terminal protein LMP2B;protein_id=YP_401632.1
+NC_007605.1	RefSeq	CDS	101916	103757	.	+	0	ID=cds2;Parent=gene0;Dbxref=GOA:P03213,InterPro:IPR002660,UniProtKB/Swiss-Prot:P03213,Genbank:YP_401682.1,GeneID:17494212;Name=YP_401682.1;Note=BBRF1;gbkey=CDS;gene=LMP2;product=virion protein BBRF1;protein_id=YP_401682.1
+NC_007605.1	RefSeq	CDS	112650	113585	.	+	0	ID=cds3;Parent=gene0;Dbxref=GOA:P03219,InterPro:IPR003498,InterPro:IPR003499,UniProtKB/Swiss-Prot:P03219,Genbank:YP_401690.1,GeneID:17494212;Name=YP_401690.1;Note=spliced BGRF1/BDRF1 reading frame;gbkey=CDS;gene=LMP2;product=BGRF1-BDRF1 protein;protein_id=YP_401690.1
+NC_007605.1	RefSeq	CDS	116927	118063	.	+	0	ID=cds3;Parent=gene0;Dbxref=GOA:P03219,InterPro:IPR003498,InterPro:IPR003499,UniProtKB/Swiss-Prot:P03219,Genbank:YP_401690.1,GeneID:17494212;Name=YP_401690.1;Note=spliced BGRF1/BDRF1 reading frame;gbkey=CDS;gene=LMP2;product=BGRF1-BDRF1 protein;protein_id=YP_401690.1
+NC_007605.1	RefSeq	mRNA	79950	82960	.	+	.	ID=rna0;Parent=gene0;Dbxref=GeneID:17494212;gbkey=mRNA;gene=LMP2;product=EBNA3A nuclear protein
+NC_007605.1	RefSeq	exon	79950	80293	.	+	.	ID=id2;Parent=rna0;Dbxref=GeneID:17494212;gbkey=mRNA;gene=LMP2;product=EBNA3A nuclear protein
+NC_007605.1	RefSeq	exon	80382	82960	.	+	.	ID=id3;Parent=rna0;Dbxref=GeneID:17494212;gbkey=mRNA;gene=LMP2;product=EBNA3A nuclear protein
+NC_007605.1	RefSeq	CDS	79955	80293	.	+	0	ID=cds4;Parent=rna0;Dbxref=GOA:P12977,InterPro:IPR007706,PDB:1M05,PDB:1XR8,UniProtKB/Swiss-Prot:P12977,Genbank:YP_401669.1,GeneID:17494212;Name=YP_401669.1;gbkey=CDS;gene=LMP2;product=EBNA3A nuclear protein;protein_id=YP_401669.1
+NC_007605.1	RefSeq	CDS	80382	82877	.	+	0	ID=cds4;Parent=rna0;Dbxref=GOA:P12977,InterPro:IPR007706,PDB:1M05,PDB:1XR8,UniProtKB/Swiss-Prot:P12977,Genbank:YP_401669.1,GeneID:17494212;Name=YP_401669.1;gbkey=CDS;gene=LMP2;product=EBNA3A nuclear protein;protein_id=YP_401669.1
+NC_007605.1	RefSeq	exon	58	272	.	+	.	ID=id4;Parent=gene0;Dbxref=GeneID:17494212;exon_number=2;gbkey=exon;gene=LMP2;number=2
+NC_007605.1	RefSeq	exon	360	458	.	+	.	ID=id5;Parent=gene0;Dbxref=GeneID:17494212;exon_number=3;gbkey=exon;gene=LMP2;number=3
+NC_007605.1	RefSeq	exon	540	788	.	+	.	ID=id6;Parent=gene0;Dbxref=GeneID:17494212;exon_number=4;gbkey=exon;gene=LMP2;number=4
+NC_007605.1	RefSeq	exon	871	951	.	+	.	ID=id7;Parent=gene0;Dbxref=GeneID:17494212;exon_number=5;gbkey=exon;gene=LMP2;number=5
+NC_007605.1	RefSeq	exon	1026	1196	.	+	.	ID=id8;Parent=gene0;Dbxref=GeneID:17494212;exon_number=6;gbkey=exon;gene=LMP2;number=6
+NC_007605.1	RefSeq	exon	1280	1495	.	+	.	ID=id9;Parent=gene0;Dbxref=GeneID:17494212;exon_number=7;gbkey=exon;gene=LMP2;number=7
+NC_007605.1	RefSeq	exon	1574	1682	.	+	.	ID=id10;Parent=gene0;Dbxref=GeneID:17494212;exon_number=8;gbkey=exon;gene=LMP2;number=8
+NC_007605.1	RefSeq	exon	5408	5856	.	+	.	ID=id11;Parent=gene0;Dbxref=GeneID:17494212;exon_number=9;gbkey=exon;gene=LMP2;number=9
+NC_007605.1	RefSeq	exon	11626	11657	.	+	.	ID=id12;Parent=gene0;Dbxref=GeneID:17494212;exon_number=C2;gbkey=exon;gene=LMP2;number=C2
+NC_007605.1	RefSeq	sequence_feature	6629	6795	.	+	.	ID=id13;Dbxref=GeneID:17494212;Note=Pol III RNA EBER 1;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	6956	7128	.	+	.	ID=id14;Dbxref=GeneID:17494212;Note=Pol III RNA EBER 2;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	9021	9133	.	+	.	ID=id15;Dbxref=GeneID:17494212;Note=HPN: dyad symmetry%2C site II for EBNA-1 binding%3B~dyad symmetry part of oriP;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	40366	41409	.	+	.	ID=id16;Dbxref=GeneID:17494212;Note=DRleft%2C similar to 143272..144328;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	49961	49961	.	+	.	ID=id17;Dbxref=GeneID:17494212;Note=BAM: BamH1 F/Q;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	50142	50189	.	+	.	ID=id18;Dbxref=GeneID:17494212;Note=Site III for EBNA-1 binding;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	53833	53833	.	+	.	ID=id19;Dbxref=GeneID:17494212;Note=BAM: BamH1 Q/U;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	57122	57122	.	+	.	ID=id20;Dbxref=GeneID:17494212;Note=BAM: BamH1 U/P;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	61180	61180	.	+	.	ID=id21;Dbxref=GeneID:17494212;Note=BAM: BamH1 P/O;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	71945	71945	.	+	.	ID=id22;Dbxref=GeneID:17494212;Note=BAM: Bam H1 M/S;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	75362	75362	.	+	.	ID=id23;Dbxref=GeneID:17494212;Note=BAM: Bam H1 S/L;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	80415	80415	.	+	.	ID=id24;Dbxref=GeneID:17494212;Note=BAM: Bam H1 L/E;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	89659	89659	.	+	.	ID=id25;Dbxref=GeneID:17494212;Note=BAM: Bam H1 e3/Z;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	91453	91453	.	+	.	ID=id26;Dbxref=GeneID:17494212;Note=BAM: Bam H1 Z/g;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	91528	91528	.	+	.	ID=id27;Dbxref=GeneID:17494212;Note=BAM: Bam H1 g/R;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	100332	100332	.	+	.	ID=id28;Dbxref=GeneID:17494212;Note=BAM: Bam H1 K/B;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	110025	110025	.	+	.	ID=id29;Dbxref=GeneID:17494212;Note=BAM: Bam H1 B/G;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	116560	116560	.	+	.	ID=id30;Dbxref=GeneID:17494212;Note=BAM: Bam H1 G/D;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	124580	124580	.	+	.	ID=id31;Dbxref=GeneID:17494212;Note=BAM: Bam H1 D/c;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	sequence_feature	130451	130451	.	+	.	ID=id32;Dbxref=GeneID:17494212;Note=BAM: Bam H1 T/X;gbkey=misc_feature;gene=LMP2
+NC_007605.1	RefSeq	region	5841	5846	.	+	.	ID=id33;Dbxref=GeneID:17494212;gbkey=polyA_signal;gene=LMP2
+NC_007605.1	RefSeq	region	99499	99504	.	+	.	ID=id34;Dbxref=GeneID:17494212;gbkey=polyA_signal;gene=LMP2
+NC_007605.1	RefSeq	region	115741	115746	.	+	.	ID=id35;Dbxref=GeneID:17494212;Note=unknown gene;gbkey=polyA_signal;gene=LMP2
+NC_007605.1	RefSeq	repeat_region	7421	8042	.	+	.	ID=id36;Dbxref=GeneID:17494212;Note=binding sites for EBNA-1 (site I)%3B~tandem repeat part of oriP%3B~also functions as a cell type specific enhancer;gbkey=repeat_region;gene=LMP2;rpt_unit_range=7421..7450
+NC_007605.1	RefSeq	repeat_region	12001	15072	.	+	.	ID=id37;Dbxref=GeneID:17494212;Note=3072 repeat 1;gbkey=repeat_region;gene=LMP2
+NC_007605.1	RefSeq	repeat_region	38290	39827	.	+	.	ID=id38;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_unit_range=38290..38414
+NC_007605.1	RefSeq	repeat_region	57396	57642	.	+	.	ID=id39;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_unit_range=57396..57446
+NC_007605.1	RefSeq	repeat_region	58099	58233	.	+	.	ID=id40;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_unit_range=58099..58113
+NC_007605.1	RefSeq	repeat_region	70031	70173	.	+	.	ID=id41;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_unit_range=70031..70101
+NC_007605.1	RefSeq	repeat_region	71352	71441	.	+	.	ID=id42;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_unit_range=71352..71360
+NC_007605.1	RefSeq	repeat_region	77889	78351	.	+	.	ID=id43;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_unit_range=77889..77919
+NC_007605.1	RefSeq	repeat_region	81920	81989	.	+	.	ID=id44;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_family=type A
+NC_007605.1	RefSeq	repeat_region	81993	82018	.	+	.	ID=id45;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_family=type B
+NC_007605.1	RefSeq	repeat_region	82019	82093	.	+	.	ID=id46;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_family=type C
+NC_007605.1	RefSeq	repeat_region	82098	82123	.	+	.	ID=id47;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_family=type B
+NC_007605.1	RefSeq	repeat_region	82124	82201	.	+	.	ID=id48;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_family=type C
+NC_007605.1	RefSeq	repeat_region	82202	82272	.	+	.	ID=id49;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_family=type A
+NC_007605.1	RefSeq	repeat_region	82283	82360	.	+	.	ID=id50;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_family=type C
+NC_007605.1	RefSeq	repeat_region	82361	82431	.	+	.	ID=id51;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_family=type A
+NC_007605.1	RefSeq	repeat_region	82608	82694	.	+	.	ID=id52;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_family=type D
+NC_007605.1	RefSeq	repeat_region	82695	82781	.	+	.	ID=id53;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2;rpt_family=type D
+NC_007605.1	RefSeq	repeat_region	90293	90364	.	+	.	ID=id54;Dbxref=GeneID:17494212;gbkey=repeat_region;gene=LMP2
+NC_007605.1	RefSeq	origin_of_replication	7315	9312	.	+	.	ID=id55;Dbxref=GeneID:17494212;Note=ori P;gbkey=rep_origin;gene=LMP2
+NC_007605.1	RefSeq	origin_of_replication	40301	41293	.	+	.	ID=id56;Dbxref=GeneID:17494212;Note=OriLyt%2C lytic origin of replication;gbkey=rep_origin;gene=LMP2
+NC_007605.1	RefSeq	origin_of_replication	40301	40656	.	+	.	ID=id57;Dbxref=GeneID:17494212;Note=part of OriLyt%2C upstream element;gbkey=rep_origin;gene=LMP2
+NC_007605.1	RefSeq	STS	35887	37347	.	+	.	ID=id58;Dbxref=UniSTS:55605,GeneID:17494212;gbkey=STS;gene=LMP2;standard_name=ODOSTSI
+NC_007605.1	RefSeq	STS	110513	111602	.	+	.	ID=id59;Dbxref=UniSTS:506892,GeneID:17494212;gbkey=STS;gene=LMP2;standard_name=Fgf8
+NC_007605.1	RefSeq	region	130300	130305	.	+	.	ID=id60;Dbxref=GeneID:17494212;Note=unknown gene;gbkey=TATA_signal;gene=LMP2
+NC_007605.1	RefSeq	sequence_alteration	33126	40537	.	+	.	ID=id61;Dbxref=GeneID:17494212;Note=DAUDI deletion;gbkey=variation;gene=LMP2;replace=gt
+NC_007605.1	RefSeq	sequence_alteration	33355	40163	.	+	.	ID=id62;Dbxref=GeneID:17494212;Note=P3HR1 deletion;gbkey=variation;gene=LMP2;replace=gg
+NC_007605.1	RefSeq	sequence_alteration	86838	89830	.	+	.	ID=id63;Dbxref=GeneID:17494212;Note=%3Ddeletion in Raji;gbkey=variation;gene=LMP2;replace=gc
+NC_007605.1	RefSeq	sequence_alteration	163519	166178	.	+	.	ID=id64;Dbxref=GeneID:17494212;Note=deletion in Raji;gbkey=variation;gene=LMP2;replace=gg
+NC_007605.1	RefSeq	gene	1691	5692	.	+	.	ID=gene1;Dbxref=GeneID:3783722;Name=BNRF1;gbkey=Gene;gene=BNRF1;gene_biotype=protein_coding;locus_tag=HHV4_BNRF1;partial=true
+NC_007605.1	RefSeq	CDS	1736	5692	.	+	0	ID=cds5;Parent=gene1;Dbxref=GOA:P03179,InterPro:IPR010077,InterPro:IPR010918,InterPro:IPR016188,UniProtKB/Swiss-Prot:P03179,Genbank:YP_401633.1,GeneID:3783722;Name=YP_401633.1;gbkey=CDS;gene=BNRF1;product=putative nmembrane antigen p140;protein_id=YP_401633.1
+NC_007605.1	RefSeq	sequence_feature	3955	3955	.	+	.	ID=id65;Dbxref=GeneID:3783722;Note=BAM: Bam H1 Nhet/h;gbkey=misc_feature;gene=BNRF1
+NC_007605.1	RefSeq	sequence_feature	3994	3994	.	+	.	ID=id66;Dbxref=GeneID:3783722;Note=BAM: Bam H1 h/C;gbkey=misc_feature;gene=BNRF1
+NC_007605.1	RefSeq	region	1691	1695	.	+	.	ID=id67;Dbxref=GeneID:3783722;gbkey=TATA_signal;gene=BNRF1
+NC_007605.1	RefSeq	gene	9631	10262	.	+	.	ID=gene2;Dbxref=GeneID:3783689;Name=BCRF1;gbkey=Gene;gene=BCRF1;gene_biotype=protein_coding;locus_tag=HHV4_BCRF1.1;partial=true
+NC_007605.1	RefSeq	CDS	9675	10187	.	+	0	ID=cds6;Parent=gene2;Dbxref=GOA:P03180,InterPro:IPR000098,InterPro:IPR009079,InterPro:IPR012351,InterPro:IPR020423,InterPro:IPR020443,PDB:1VLK,PDB:1Y6M,PDB:1Y6N,UniProtKB/Swiss-Prot:P03180,Genbank:YP_401634.1,GeneID:3783689;Name=YP_401634.1;gbkey=CDS;gene=BCRF1;product=BCRF1 protein precursor;protein_id=YP_401634.1
+NC_007605.1	RefSeq	region	10257	10262	.	+	.	ID=id68;Dbxref=GeneID:3783689;gbkey=polyA_signal;gene=BCRF1
+NC_007605.1	RefSeq	region	9631	9636	.	+	.	ID=id69;Dbxref=GeneID:3783689;Note=BC-R1 late promoter;gbkey=TATA_signal;gene=BCRF1
+NC_007605.1	RefSeq	gene	11305	11308	.	+	.	ID=gene3;Dbxref=GeneID:17494236;Name=BCR2;gbkey=Gene;gene=BCR2;gene_biotype=other
+NC_007605.1	RefSeq	region	11305	11308	.	+	.	ID=id70;Dbxref=GeneID:17494236;gbkey=TATA_signal;gene=BCR2
+NC_007605.1	RefSeq	gene	11336	11480	.	+	.	ID=gene4;Dbxref=GeneID:17494235;Name=EBNA;gbkey=Gene;gene=EBNA;gene_biotype=other
+NC_007605.1	RefSeq	exon	11336	11480	.	+	.	ID=id71;Parent=gene4;Dbxref=GeneID:17494235;exon_number=C1;gbkey=exon;gene=EBNA;number=C1
+NC_007605.1	RefSeq	gene	12541	13692	.	+	.	ID=gene5;Dbxref=GeneID:3783691;Name=BCRF2;gbkey=Gene;gene=BCRF2;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.1;partial=true;start_range=.,12541
+NC_007605.1	RefSeq	CDS	12541	13692	.	+	0	ID=cds7;Parent=gene5;Dbxref=UniProtKB/TrEMBL:Q8AZK8,Genbank:YP_401635.1,GeneID:3783691;Name=YP_401635.1;Note=reading frame 1;gbkey=CDS;gene=BCRF2;partial=true;product=hypothetical protein BCRF2;protein_id=YP_401635.1;start_range=.,12541
+NC_007605.1	RefSeq	sequence_feature	13215	13215	.	+	.	ID=id72;Dbxref=GeneID:3783691;Note=BAM: BamH1 C/W;gbkey=misc_feature;gene=BCRF2
+NC_007605.1	RefSeq	gene	14352	35711	.	+	.	ID=gene6;Dbxref=GeneID:3783746;Name=EBNA-LP;gbkey=Gene;gene=EBNA-LP;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	CDS	14409	14410	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	14559	14619	.	+	1	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	14701	14832	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	17626	17691	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	17773	17904	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	20698	20763	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	20845	20976	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	23770	23835	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	23917	24048	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	26842	26907	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	26989	27120	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	29914	29979	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	30061	30192	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	32986	33051	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	33133	33264	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	35473	35505	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	CDS	35590	35694	.	+	0	ID=cds8;Parent=gene6;Dbxref=GOA:Q8AZK7,InterPro:IPR005030,UniProtKB/Swiss-Prot:Q8AZK7,Genbank:YP_401636.1,GeneID:3783746;Name=YP_401636.1;Note=can start at any W0/W1' or C1/W1';gbkey=CDS;gene=EBNA-LP;product=EBNA-LP protein;protein_id=YP_401636.1
+NC_007605.1	RefSeq	exon	14384	14410	.	+	.	ID=id73;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W0;gbkey=exon;gene=EBNA-LP;number=W0
+NC_007605.1	RefSeq	exon	14554	14619	.	+	.	ID=id74;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W1;gbkey=exon;gene=EBNA-LP;number=W1
+NC_007605.1	RefSeq	exon	14559	14619	.	+	.	ID=id75;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W1';gbkey=exon;gene=EBNA-LP;number=W1'
+NC_007605.1	RefSeq	exon	14701	14832	.	+	.	ID=id76;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W2;gbkey=exon;gene=EBNA-LP;number=W2
+NC_007605.1	RefSeq	exon	17626	17691	.	+	.	ID=id77;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W1;gbkey=exon;gene=EBNA-LP;number=W1
+NC_007605.1	RefSeq	exon	17773	17904	.	+	.	ID=id78;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W2;gbkey=exon;gene=EBNA-LP;number=W2
+NC_007605.1	RefSeq	exon	20698	20763	.	+	.	ID=id79;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W1;gbkey=exon;gene=EBNA-LP;number=W1
+NC_007605.1	RefSeq	exon	20845	20976	.	+	.	ID=id80;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W2;gbkey=exon;gene=EBNA-LP;number=W2
+NC_007605.1	RefSeq	exon	23770	23835	.	+	.	ID=id81;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W1;gbkey=exon;gene=EBNA-LP;number=W1
+NC_007605.1	RefSeq	exon	23917	24048	.	+	.	ID=id82;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W2;gbkey=exon;gene=EBNA-LP;number=W2
+NC_007605.1	RefSeq	exon	26842	26907	.	+	.	ID=id83;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W1;gbkey=exon;gene=EBNA-LP;number=W1
+NC_007605.1	RefSeq	exon	26989	27120	.	+	.	ID=id84;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W2;gbkey=exon;gene=EBNA-LP;number=W2
+NC_007605.1	RefSeq	exon	29914	29979	.	+	.	ID=id85;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W1;gbkey=exon;gene=EBNA-LP;number=W1
+NC_007605.1	RefSeq	exon	30061	30192	.	+	.	ID=id86;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W2;gbkey=exon;gene=EBNA-LP;number=W2
+NC_007605.1	RefSeq	exon	32986	33051	.	+	.	ID=id87;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W1;gbkey=exon;gene=EBNA-LP;number=W1
+NC_007605.1	RefSeq	exon	33133	33264	.	+	.	ID=id88;Parent=gene6;Dbxref=GeneID:3783746;exon_number=W2;gbkey=exon;gene=EBNA-LP;number=W2
+NC_007605.1	RefSeq	exon	35473	35505	.	+	.	ID=id89;Parent=gene6;Dbxref=GeneID:3783746;exon_number=Y1;gbkey=exon;gene=EBNA-LP;number=Y1
+NC_007605.1	RefSeq	exon	35590	35711	.	+	.	ID=id90;Parent=gene6;Dbxref=GeneID:3783746;exon_number=Y2;gbkey=exon;gene=EBNA-LP;number=Y2
+NC_007605.1	RefSeq	repeat_region	15073	18144	.	+	.	ID=id91;Dbxref=GeneID:3783746;Note=3072 repeat 2;gbkey=repeat_region;gene=EBNA-LP
+NC_007605.1	RefSeq	repeat_region	18145	21216	.	+	.	ID=id92;Dbxref=GeneID:3783746;Note=3072 repeat 3;gbkey=repeat_region;gene=EBNA-LP
+NC_007605.1	RefSeq	repeat_region	21217	24288	.	+	.	ID=id93;Dbxref=GeneID:3783746;Note=3072 repeat 4;gbkey=repeat_region;gene=EBNA-LP
+NC_007605.1	RefSeq	repeat_region	24289	27360	.	+	.	ID=id94;Dbxref=GeneID:3783746;Note=3072 repeat 5;gbkey=repeat_region;gene=EBNA-LP
+NC_007605.1	RefSeq	repeat_region	27361	30432	.	+	.	ID=id95;Dbxref=GeneID:3783746;Note=3072 repeat 6;gbkey=repeat_region;gene=EBNA-LP
+NC_007605.1	RefSeq	repeat_region	30433	33504	.	+	.	ID=id96;Dbxref=GeneID:3783746;Note=3072 repeat 7;gbkey=repeat_region;gene=EBNA-LP
+NC_007605.1	RefSeq	repeat_region	33505	35355	.	+	.	ID=id97;Dbxref=GeneID:3783746;gbkey=repeat_region;gene=EBNA-LP
+NC_007605.1	RefSeq	region	14352	14352	.	+	.	ID=id98;Dbxref=GeneID:3783746;gbkey=TATA_signal;gene=EBNA-LP
+NC_007605.1	RefSeq	region	17424	17424	.	+	.	ID=id99;Dbxref=GeneID:3783746;gbkey=TATA_signal;gene=EBNA-LP
+NC_007605.1	RefSeq	region	20496	20496	.	+	.	ID=id100;Dbxref=GeneID:3783746;gbkey=TATA_signal;gene=EBNA-LP
+NC_007605.1	RefSeq	region	23568	23568	.	+	.	ID=id101;Dbxref=GeneID:3783746;gbkey=TATA_signal;gene=EBNA-LP
+NC_007605.1	RefSeq	region	26640	26640	.	+	.	ID=id102;Dbxref=GeneID:3783746;gbkey=TATA_signal;gene=EBNA-LP
+NC_007605.1	RefSeq	region	29712	29712	.	+	.	ID=id103;Dbxref=GeneID:3783746;gbkey=TATA_signal;gene=EBNA-LP
+NC_007605.1	RefSeq	region	32784	32784	.	+	.	ID=id104;Dbxref=GeneID:3783746;gbkey=TATA_signal;gene=EBNA-LP
+NC_007605.1	RefSeq	gene	15613	16764	.	+	.	ID=gene7;Dbxref=GeneID:3783734;Name=BWRF1;gbkey=Gene;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.2;partial=true;start_range=.,15613
+NC_007605.1	RefSeq	CDS	15613	16764	.	+	0	ID=cds9;Parent=gene7;Dbxref=UniProtKB/TrEMBL:Q8AZK6,Genbank:YP_401637.1,GeneID:3783734;Name=YP_401637.1;Note=reading frame 2;gbkey=CDS;gene=BWRF1;partial=true;product=hypothetical protein BWRF1;protein_id=YP_401637.1;start_range=.,15613
+NC_007605.1	RefSeq	sequence_feature	16287	16287	.	+	.	ID=id105;Dbxref=GeneID:3783734;Note=BAM: BamH1 W/W;gbkey=misc_feature;gene=BWRF1
+NC_007605.1	RefSeq	gene	18685	19836	.	+	.	ID=gene8;Dbxref=GeneID:3783735;Name=BWRF1;gbkey=Gene;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.3;partial=true;start_range=.,18685
+NC_007605.1	RefSeq	CDS	18685	19836	.	+	0	ID=cds10;Parent=gene8;Dbxref=UniProtKB/TrEMBL:Q8AZK5,Genbank:YP_401638.1,GeneID:3783735;Name=YP_401638.1;Note=reading frame 3;gbkey=CDS;gene=BWRF1;partial=true;product=hypothetical protein BWRF1;protein_id=YP_401638.1;start_range=.,18685
+NC_007605.1	RefSeq	sequence_feature	19359	19359	.	+	.	ID=id106;Dbxref=GeneID:3783735;Note=BAM: BamH1 W/W;gbkey=misc_feature;gene=BWRF1
+NC_007605.1	RefSeq	gene	21757	22908	.	+	.	ID=gene9;Dbxref=GeneID:3783736;Name=BWRF1;gbkey=Gene;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.4;partial=true;start_range=.,21757
+NC_007605.1	RefSeq	CDS	21757	22908	.	+	0	ID=cds11;Parent=gene9;Dbxref=UniProtKB/TrEMBL:Q8AZK4,Genbank:YP_401639.1,GeneID:3783736;Name=YP_401639.1;Note=reading frame 4;gbkey=CDS;gene=BWRF1;partial=true;product=hypothetical protein BWRF1;protein_id=YP_401639.1;start_range=.,21757
+NC_007605.1	RefSeq	sequence_feature	22431	22431	.	+	.	ID=id107;Dbxref=GeneID:3783736;Note=BAM: BamH1 W/W;gbkey=misc_feature;gene=BWRF1
+NC_007605.1	RefSeq	gene	24829	25980	.	+	.	ID=gene10;Dbxref=GeneID:3783737;Name=BWRF1;gbkey=Gene;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.5;partial=true;start_range=.,24829
+NC_007605.1	RefSeq	CDS	24829	25980	.	+	0	ID=cds12;Parent=gene10;Dbxref=UniProtKB/TrEMBL:Q8AZK3,Genbank:YP_401640.1,GeneID:3783737;Name=YP_401640.1;Note=reading frame 5;gbkey=CDS;gene=BWRF1;partial=true;product=hypothetical protein BWRF1;protein_id=YP_401640.1;start_range=.,24829
+NC_007605.1	RefSeq	sequence_feature	25503	25503	.	+	.	ID=id108;Dbxref=GeneID:3783737;Note=BAM: BamH1 W/W;gbkey=misc_feature;gene=BWRF1
+NC_007605.1	RefSeq	gene	27901	29052	.	+	.	ID=gene11;Dbxref=GeneID:3783738;Name=BWRF1;gbkey=Gene;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.6;partial=true;start_range=.,27901
+NC_007605.1	RefSeq	CDS	27901	29052	.	+	0	ID=cds13;Parent=gene11;Dbxref=UniProtKB/TrEMBL:Q8AZK2,Genbank:YP_401641.1,GeneID:3783738;Name=YP_401641.1;Note=reading frame 6;gbkey=CDS;gene=BWRF1;partial=true;product=hypothetical protein BWRF1;protein_id=YP_401641.1;start_range=.,27901
+NC_007605.1	RefSeq	sequence_feature	28575	28575	.	+	.	ID=id109;Dbxref=GeneID:3783738;Note=BAM: BamH1 W/W;gbkey=misc_feature;gene=BWRF1
+NC_007605.1	RefSeq	gene	30973	32124	.	+	.	ID=gene12;Dbxref=GeneID:3783739;Name=BWRF1;gbkey=Gene;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.7;partial=true;start_range=.,30973
+NC_007605.1	RefSeq	CDS	30973	32124	.	+	0	ID=cds14;Parent=gene12;Dbxref=UniProtKB/TrEMBL:Q8AZK1,Genbank:YP_401642.1,GeneID:3783739;Name=YP_401642.1;Note=reading frame 7;gbkey=CDS;gene=BWRF1;partial=true;product=hypothetical protein BWRF1;protein_id=YP_401642.1;start_range=.,30973
+NC_007605.1	RefSeq	sequence_feature	31647	31647	.	+	.	ID=id110;Dbxref=GeneID:3783739;Note=BAM: BamH1 W/W;gbkey=misc_feature;gene=BWRF1
+NC_007605.1	RefSeq	gene	34045	35196	.	+	.	ID=gene13;Dbxref=GeneID:3783740;Name=BWRF1;gbkey=Gene;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.8;partial=true;start_range=.,34045
+NC_007605.1	RefSeq	CDS	34045	35196	.	+	0	ID=cds15;Parent=gene13;Dbxref=UniProtKB/TrEMBL:Q8AZK0,Genbank:YP_401643.1,GeneID:3783740;Name=YP_401643.1;Note=reading frame 8;gbkey=CDS;gene=BWRF1;partial=true;product=hypothetical protein BWRF1;protein_id=YP_401643.1;start_range=.,34045
+NC_007605.1	RefSeq	sequence_feature	34719	34719	.	+	.	ID=id111;Dbxref=GeneID:3783740;Note=BAM: BamH1 W/Y;gbkey=misc_feature;gene=BWRF1
+NC_007605.1	RefSeq	gene	36098	37739	.	+	.	ID=gene14;Dbxref=GeneID:17494192;Name=EBNA-2;gbkey=Gene;gene=EBNA-2;gene_biotype=other
+NC_007605.1	RefSeq	region	37715	37720	.	+	.	ID=id112;Dbxref=GeneID:17494192;gbkey=polyA_signal;gene=EBNA-2
+NC_007605.1	RefSeq	exon	36098	37739	.	+	.	ID=id113;Parent=gene14;Dbxref=GeneID:17494192;exon_number=YH;gbkey=exon;gene=EBNA-2;number=YH
+NC_007605.1	RefSeq	gene	36098	36156	.	+	.	ID=gene15;Dbxref=GeneID:17494199;Name=EBNA-LP;gbkey=Gene;gene=EBNA-LP;gene_biotype=other
+NC_007605.1	RefSeq	exon	36098	36156	.	+	.	ID=id114;Parent=gene15;Dbxref=GeneID:17494199;gbkey=exon;gene=EBNA-LP
+NC_007605.1	RefSeq	gene	36216	37679	.	+	.	ID=gene16;Dbxref=GeneID:3783761;Name=BYRF1;gbkey=Gene;gene=BYRF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	36216	37679	.	+	0	ID=cds16;Parent=gene16;Dbxref=GOA:P12978,UniProtKB/Swiss-Prot:P12978,Genbank:YP_401644.1,GeneID:3783761;Name=YP_401644.1;gbkey=CDS;gene=BYRF1;product=EBNA-2 nuclear protein;protein_id=YP_401644.1
+NC_007605.1	RefSeq	sequence_feature	36560	36560	.	+	.	ID=id115;Dbxref=GeneID:3783761;Note=BAM: BamH1 Y/H;gbkey=misc_feature;gene=BYRF1
+NC_007605.1	RefSeq	repeat_region	36390	36512	.	+	.	ID=id116;Dbxref=GeneID:3783761;gbkey=repeat_region;gene=BYRF1;rpt_unit_range=36390..36398
+NC_007605.1	RefSeq	repeat_region	37237	37290	.	+	.	ID=id117;Dbxref=GeneID:3783761;gbkey=repeat_region;gene=BYRF1;rpt_unit_range=37237..37242
+NC_007605.1	RefSeq	gene	37564	37744	.	+	.	ID=gene17;Dbxref=GeneID:17494195;Name=EBNA-LP;gbkey=Gene;gene=EBNA-LP;gene_biotype=other
+NC_007605.1	RefSeq	exon	37564	37744	.	+	.	ID=id118;Parent=gene17;Dbxref=GeneID:17494195;gbkey=exon;gene=EBNA-LP
+NC_007605.1	RefSeq	gene	38024	40529	.	-	.	ID=gene18;Dbxref=GeneID:3783705;Name=BHLF1;gbkey=Gene;gene=BHLF1;gene_biotype=protein_coding;locus_tag=HHV4_BHLF1;partial=true
+NC_007605.1	RefSeq	CDS	38287	40269	.	-	0	ID=cds17;Parent=gene18;Dbxref=UniProtKB/Swiss-Prot:P03181,Genbank:YP_401645.1,GeneID:3783705;Name=YP_401645.1;gbkey=CDS;gene=BHLF1;product=BHLF1 early reading frame;protein_id=YP_401645.1
+NC_007605.1	RefSeq	region	38024	38029	.	-	.	ID=id119;Dbxref=GeneID:3783705;gbkey=polyA_signal;gene=BHLF1
+NC_007605.1	RefSeq	region	40524	40529	.	-	.	ID=id120;Dbxref=GeneID:3783705;gbkey=TATA_signal;gene=BHLF1
+NC_007605.1	RefSeq	gene	41471	41476	.	+	.	ID=gene19;Dbxref=GeneID:17494251;Name=BHF1;gbkey=Gene;gene=BHF1;gene_biotype=other
+NC_007605.1	RefSeq	region	41471	41476	.	+	.	ID=id121;Dbxref=GeneID:17494251;Note=likely promoter for class III and IV early RNAs encoding BHRF1;gbkey=TATA_signal;gene=BHF1
+NC_007605.1	RefSeq	gene	41474	41495	.	+	.	ID=gene20;Dbxref=GeneID:17494250;Name=miBHFR1-1;gbkey=Gene;gene=miBHFR1-1;gene_biotype=miRNA
+NC_007605.1	RefSeq	miRNA	41474	41495	.	+	.	ID=rna1;Parent=gene20;Dbxref=GeneID:17494250;Note=transcribed as larger precursor%2C predicted to form hairpin;gbkey=ncRNA;gene=miBHFR1-1;product=microRNA BHFR1-1
+NC_007605.1	RefSeq	exon	41474	41495	.	+	.	ID=id122;Parent=rna1;Dbxref=GeneID:17494250;Note=transcribed as larger precursor%2C predicted to form hairpin;gbkey=ncRNA;gene=miBHFR1-1;product=microRNA BHFR1-1
+NC_007605.1	RefSeq	gene	42088	42663	.	+	.	ID=gene21;Dbxref=GeneID:3783706;Name=BHRF1;gbkey=Gene;gene=BHRF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	42088	42663	.	+	0	ID=cds18;Parent=gene21;Dbxref=GOA:P03182,InterPro:IPR000712,InterPro:IPR002475,InterPro:IPR020726,PDB:1Q59,UniProtKB/Swiss-Prot:P03182,Genbank:YP_401646.1,GeneID:3783706;Name=YP_401646.1;gbkey=CDS;gene=BHRF1;product=hypothetical protein;protein_id=YP_401646.1
+NC_007605.1	RefSeq	sequence_feature	42565	42565	.	+	.	ID=id123;Dbxref=GeneID:3783706;Note=BAM: BamH1 H/F;gbkey=misc_feature;gene=BHRF1
+NC_007605.1	RefSeq	region	42636	42641	.	-	.	ID=id124;Note=unknown gene;gbkey=polyA_signal
+NC_007605.1	RefSeq	gene	42853	42874	.	+	.	ID=gene22;Dbxref=GeneID:17494252;Name=miBHFR1-2*;gbkey=Gene;gene=miBHFR1-2*;gene_biotype=miRNA
+NC_007605.1	RefSeq	miRNA	42853	42874	.	+	.	ID=rna2;Parent=gene22;Dbxref=GeneID:17494252;Note=transcribed as larger precursor%2C predicted to form hairpin;gbkey=ncRNA;gene=miBHFR1-2*;product=microRNA BHFR1-2*
+NC_007605.1	RefSeq	exon	42853	42874	.	+	.	ID=id125;Parent=rna2;Dbxref=GeneID:17494252;Note=transcribed as larger precursor%2C predicted to form hairpin;gbkey=ncRNA;gene=miBHFR1-2*;product=microRNA BHFR1-2*
+NC_007605.1	RefSeq	gene	42888	42910	.	+	.	ID=gene23;Dbxref=GeneID:17494207;Name=miBHFR1-2;gbkey=Gene;gene=miBHFR1-2;gene_biotype=miRNA
+NC_007605.1	RefSeq	miRNA	42888	42910	.	+	.	ID=rna3;Parent=gene23;Dbxref=GeneID:17494207;Note=transcribed as larger precursor%2C predicted to form hairpin;gbkey=ncRNA;gene=miBHFR1-2;product=microRNA BHFR1-2
+NC_007605.1	RefSeq	exon	42888	42910	.	+	.	ID=id126;Parent=rna3;Dbxref=GeneID:17494207;Note=transcribed as larger precursor%2C predicted to form hairpin;gbkey=ncRNA;gene=miBHFR1-2;product=microRNA BHFR1-2
+NC_007605.1	RefSeq	gene	42968	42990	.	+	.	ID=gene24;Dbxref=GeneID:17494206;Name=miBHFR1-3;gbkey=Gene;gene=miBHFR1-3;gene_biotype=misc_RNA;gene_synonym=microRNA BHFR1-3
+NC_007605.1	RefSeq	transcript	42968	42990	.	+	.	ID=rna4;Parent=gene24;Dbxref=GeneID:17494206;Note=transcribed as larger precursor%2C predicted to form hairpin;gbkey=misc_RNA;gene=miBHFR1-3
+NC_007605.1	RefSeq	exon	42968	42990	.	+	.	ID=id127;Parent=rna4;Dbxref=GeneID:17494206;Note=transcribed as larger precursor%2C predicted to form hairpin;gbkey=misc_RNA;gene=miBHFR1-3
+NC_007605.1	RefSeq	gene	43230	43235	.	+	.	ID=gene25;Dbxref=GeneID:17494208;Name=BHRF1;gbkey=Gene;gene=BHRF1;gene_biotype=other
+NC_007605.1	RefSeq	region	43230	43235	.	+	.	ID=id128;Dbxref=GeneID:17494208;gbkey=polyA_signal;gene=BHRF1
+NC_007605.1	RefSeq	gene	43691	44647	.	-	.	ID=gene26;Dbxref=GeneID:3783698;Name=BFLF2;gbkey=Gene;gene=BFLF2;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	43691	44647	.	-	0	ID=cds19;Parent=gene26;Dbxref=GOA:Q777G9,InterPro:IPR021152,UniProtKB/TrEMBL:Q777G9,Genbank:YP_401647.1,GeneID:3783698;Name=YP_401647.1;gbkey=CDS;gene=BFLF2;product=BFLF2 protein;protein_id=YP_401647.1
+NC_007605.1	RefSeq	region	43697	43702	.	-	.	ID=id129;Dbxref=GeneID:3783698;gbkey=polyA_signal;gene=BFLF2
+NC_007605.1	RefSeq	gene	44660	46280	.	-	.	ID=gene27;Dbxref=GeneID:3783697;Name=BFLF1;gbkey=Gene;gene=BFLF1;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	CDS	44660	46237	.	-	0	ID=cds20;Parent=gene27;Dbxref=GOA:Q777G8,InterPro:IPR002597,UniProtKB/TrEMBL:Q777G8,Genbank:YP_401648.1,GeneID:3783697;Name=YP_401648.1;gbkey=CDS;gene=BFLF1;product=hypothetical protein;protein_id=YP_401648.1
+NC_007605.1	RefSeq	region	44788	44793	.	-	.	ID=id130;Dbxref=GeneID:3783697;gbkey=TATA_signal;gene=BFLF1
+NC_007605.1	RefSeq	region	46275	46280	.	-	.	ID=id131;Dbxref=GeneID:3783697;gbkey=TATA_signal;gene=BFLF1
+NC_007605.1	RefSeq	gene	46236	46643	.	+	.	ID=gene28;Dbxref=GeneID:17494243;Name=BFRF1A;gbkey=Gene;gene=BFRF1A;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	46236	46643	.	+	0	ID=cds21;Parent=gene28;Dbxref=GOA:Q69117,InterPro:IPR005208,UniProtKB/TrEMBL:Q69117,Genbank:YP_007474185.1,GeneID:17494243;Name=YP_007474185.1;Note=herpesvirus core gene UL33 family%3B~ORF67A;gbkey=CDS;gene=BFRF1A;product=BFRF1A protein;protein_id=YP_007474185.1
+NC_007605.1	RefSeq	gene	46544	46549	.	+	.	ID=gene29;Dbxref=GeneID:17494244;Name=BFLF1;gbkey=Gene;gene=BFLF1;gene_biotype=other
+NC_007605.1	RefSeq	region	46544	46549	.	+	.	ID=id132;Dbxref=GeneID:17494244;gbkey=TATA_signal;gene=BFLF1
+NC_007605.1	RefSeq	gene	46603	47613	.	+	.	ID=gene30;Dbxref=GeneID:3783699;Name=BFRF1;gbkey=Gene;gene=BFRF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	46603	47613	.	+	0	ID=cds22;Parent=gene30;Dbxref=GOA:Q777G7,InterPro:IPR007626,UniProtKB/TrEMBL:Q777G7,Genbank:YP_401649.1,GeneID:3783699;Name=YP_401649.1;gbkey=CDS;gene=BFRF1;product=BFRF1 protein;protein_id=YP_401649.1
+NC_007605.1	RefSeq	gene	47520	49295	.	+	.	ID=gene31;Dbxref=GeneID:3783700;Name=BFRF2;gbkey=Gene;gene=BFRF2;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	47520	49295	.	+	0	ID=cds23;Parent=gene31;Dbxref=GOA:Q777G6,InterPro:IPR004339,UniProtKB/TrEMBL:Q777G6,Genbank:YP_401650.1,GeneID:3783700;Name=YP_401650.1;gbkey=CDS;gene=BFRF2;product=hypothetical protein;protein_id=YP_401650.1
+NC_007605.1	RefSeq	gene	49056	49786	.	+	.	ID=gene32;Dbxref=GeneID:3783701;Name=BFRF3;gbkey=Gene;gene=BFRF3;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	CDS	49219	49749	.	+	0	ID=cds24;Parent=gene32;Dbxref=GOA:Q777G5,InterPro:IPR009299,UniProtKB/TrEMBL:Q777G5,Genbank:YP_401651.1,GeneID:3783701;Name=YP_401651.1;gbkey=CDS;gene=BFRF3;product=capsid protein VP26;protein_id=YP_401651.1
+NC_007605.1	RefSeq	region	49781	49786	.	+	.	ID=id133;Dbxref=GeneID:3783701;gbkey=polyA_signal;gene=BFRF3
+NC_007605.1	RefSeq	region	49056	49061	.	+	.	ID=id134;Dbxref=GeneID:3783701;gbkey=TATA_signal;gene=BFRF3
+NC_007605.1	RefSeq	gene	49775	59904	.	-	.	ID=gene33;Dbxref=GeneID:3783726;Name=BPLF1;gbkey=Gene;gene=BPLF1;gene_biotype=protein_coding;locus_tag=HHV4_BPLF1;partial=true
+NC_007605.1	RefSeq	region	59899	59904	.	-	.	ID=id135;Dbxref=GeneID:3783726;gbkey=TATA_signal;gene=BPLF1
+NC_007605.1	RefSeq	CDS	49790	59239	.	-	0	ID=cds25;Parent=gene33;Dbxref=GOA:P03186,InterPro:IPR006928,UniProtKB/Swiss-Prot:P03186,Genbank:YP_401652.1,GeneID:3783726;Name=YP_401652.1;gbkey=CDS;gene=BPLF1;product=large tegument protein;protein_id=YP_401652.1
+NC_007605.1	RefSeq	region	49775	49780	.	-	.	ID=id136;Dbxref=GeneID:3783726;gbkey=polyA_signal;gene=BPLF1
+NC_007605.1	RefSeq	gene	55189	55361	.	+	.	ID=gene34;Dbxref=GeneID:17494227;Name=EBNA-1;gbkey=Gene;gene=EBNA-1;gene_biotype=other
+NC_007605.1	RefSeq	exon	55189	55361	.	+	.	ID=id137;Parent=gene34;Dbxref=GeneID:17494227;gbkey=exon;gene=EBNA-1
+NC_007605.1	RefSeq	gene	59232	62951	.	-	.	ID=gene35;Dbxref=GeneID:3783723;Name=BOLF1;gbkey=Gene;gene=BOLF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	59232	62951	.	-	0	ID=cds26;Parent=gene35;Dbxref=GOA:P03189,InterPro:IPR007611,UniProtKB/Swiss-Prot:P03189,Genbank:YP_401653.1,GeneID:3783723;Name=YP_401653.1;gbkey=CDS;gene=BOLF1;product=capsid assembly protein;protein_id=YP_401653.1
+NC_007605.1	RefSeq	gene	62729	62729	.	+	.	ID=gene36;Dbxref=GeneID:17494223;Name=BORF1;gbkey=Gene;gene=BORF1;gene_biotype=other
+NC_007605.1	RefSeq	region	62729	62729	.	+	.	ID=id138;Dbxref=GeneID:17494223;gbkey=TATA_signal;gene=BORF1
+NC_007605.1	RefSeq	gene	62950	64044	.	+	.	ID=gene37;Dbxref=GeneID:3783724;Name=BORF1;gbkey=Gene;gene=BORF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	62950	64044	.	+	0	ID=cds27;Parent=gene37;Dbxref=GOA:Q777G2,InterPro:IPR004999,UniProtKB/TrEMBL:Q777G2,Genbank:YP_401654.1,GeneID:3783724;Name=YP_401654.1;gbkey=CDS;gene=BORF1;product=putative capsid protein VP19C;protein_id=YP_401654.1
+NC_007605.1	RefSeq	gene	63029	63034	.	-	.	ID=gene38;Dbxref=GeneID:17494225;Name=BOLF1;gbkey=Gene;gene=BOLF1;gene_biotype=other
+NC_007605.1	RefSeq	region	63029	63034	.	-	.	ID=id139;Dbxref=GeneID:17494225;gbkey=TATA_signal;gene=BOLF1
+NC_007605.1	RefSeq	gene	63881	63881	.	+	.	ID=gene39;Dbxref=GeneID:17494224;Name=BORF2;gbkey=Gene;gene=BORF2;gene_biotype=other
+NC_007605.1	RefSeq	region	63881	63881	.	+	.	ID=id140;Dbxref=GeneID:17494224;gbkey=TATA_signal;gene=BORF2
+NC_007605.1	RefSeq	gene	64119	66600	.	+	.	ID=gene40;Dbxref=GeneID:3783725;Name=BORF2;gbkey=Gene;gene=BORF2;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	64119	66599	.	+	0	ID=cds28;Parent=gene40;Dbxref=GOA:P03190,InterPro:IPR000788,InterPro:IPR013346,InterPro:IPR013509,UniProtKB/Swiss-Prot:P03190,Genbank:YP_401655.1,GeneID:3783725;Name=YP_401655.1;gbkey=CDS;gene=BORF2;product=ribonucleoside-diphosphate reductase large chain;protein_id=YP_401655.1
+NC_007605.1	RefSeq	sequence_feature	65547	65552	.	+	.	ID=id141;Dbxref=GeneID:3783725;Note=BAM: Bam H1 O/a;gbkey=misc_feature;gene=BORF2
+NC_007605.1	RefSeq	region	66595	66600	.	+	.	ID=id142;Dbxref=GeneID:3783725;gbkey=polyA_signal;gene=BORF2
+NC_007605.1	RefSeq	gene	66516	66521	.	+	.	ID=gene41;Dbxref=GeneID:17494226;Name=BaRF1;gbkey=Gene;gene=BaRF1;gene_biotype=other
+NC_007605.1	RefSeq	region	66516	66521	.	+	.	ID=id143;Dbxref=GeneID:17494226;gbkey=TATA_signal;gene=BaRF1
+NC_007605.1	RefSeq	gene	66612	67520	.	+	.	ID=gene42;Dbxref=GeneID:3783683;Name=BaRF1;gbkey=Gene;gene=BaRF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	66612	67520	.	+	0	ID=cds29;Parent=gene42;Dbxref=GOA:P0CAP6,InterPro:IPR000358,InterPro:IPR009078,InterPro:IPR012348,UniProtKB/Swiss-Prot:P0CAP6,Genbank:YP_401656.1,GeneID:3783683;Name=YP_401656.1;gbkey=CDS;gene=BaRF1;product=ribonucleoside-diphosphate reductase small chain;protein_id=YP_401656.1
+NC_007605.1	RefSeq	sequence_feature	67249	67254	.	+	.	ID=id144;Dbxref=GeneID:3783683;Note=BAM: Bam H1 a/M;gbkey=misc_feature;gene=BaRF1
+NC_007605.1	RefSeq	gene	67552	67557	.	+	.	ID=gene43;Dbxref=GeneID:17494230;Name=BMRF1;gbkey=Gene;gene=BMRF1;gene_biotype=other
+NC_007605.1	RefSeq	region	67552	67557	.	+	.	ID=id145;Dbxref=GeneID:17494230;gbkey=TATA_signal;gene=BMRF1
+NC_007605.1	RefSeq	gene	67611	68825	.	+	.	ID=gene44;Dbxref=GeneID:3783718;Name=BMRF1;gbkey=Gene;gene=BMRF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	67611	68825	.	+	0	ID=cds30;Parent=gene44;Dbxref=GOA:P03191,InterPro:IPR007013,PDB:2Z0L,UniProtKB/Swiss-Prot:P03191,Genbank:YP_401657.1,GeneID:3783718;Name=YP_401657.1;gbkey=CDS;gene=BMRF1;product=early antigen protein D;protein_id=YP_401657.1
+NC_007605.1	RefSeq	gene	68491	69903	.	+	.	ID=gene45;Dbxref=GeneID:3783719;Name=BMRF2;gbkey=Gene;gene=BMRF2;gene_biotype=protein_coding;locus_tag=HHV4_BMRF2;partial=true
+NC_007605.1	RefSeq	region	68491	68496	.	+	.	ID=id146;Dbxref=GeneID:3783719;gbkey=TATA_signal;gene=BMRF2
+NC_007605.1	RefSeq	region	68544	68549	.	+	.	ID=id147;Dbxref=GeneID:3783719;gbkey=TATA_signal;gene=BMRF2
+NC_007605.1	RefSeq	CDS	68830	69903	.	+	0	ID=cds31;Parent=gene45;Dbxref=InterPro:IPR006727,UniProtKB/TrEMBL:Q777F8,Genbank:YP_401658.1,GeneID:3783719;Name=YP_401658.1;gbkey=CDS;gene=BMRF2;product=BMRF2 protein;protein_id=YP_401658.1
+NC_007605.1	RefSeq	region	69892	69897	.	+	.	ID=id148;Dbxref=GeneID:3783719;gbkey=polyA_signal;gene=BMRF2
+NC_007605.1	RefSeq	gene	70454	70459	.	-	.	ID=gene46;Dbxref=GeneID:17494220;Name=SM;gbkey=Gene;gene=SM;gene_biotype=other
+NC_007605.1	RefSeq	region	70454	70459	.	-	.	ID=id149;Dbxref=GeneID:17494220;gbkey=polyA_signal;gene=SM
+NC_007605.1	RefSeq	gene	70455	72000	.	-	.	ID=gene47;Dbxref=GeneID:3783758;Name=SM%2C spliced BSLF2+BMLF1;gbkey=Gene;gene=SM%2C spliced BSLF2+BMLF1;gene_biotype=protein_coding;locus_tag=HHV4_BSLF2/BMLF1;partial=true
+NC_007605.1	RefSeq	CDS	71940	72000	.	-	0	ID=cds32;Parent=gene47;Dbxref=GOA:Q04360,InterPro:IPR008648,UniProtKB/Swiss-Prot:Q04360,Genbank:YP_401659.1,GeneID:3783758;Name=YP_401659.1;gbkey=CDS;gene=SM%2C spliced BSLF2+BMLF1;product=ICP27 homolog;protein_id=YP_401659.1
+NC_007605.1	RefSeq	CDS	70455	71833	.	-	2	ID=cds32;Parent=gene47;Dbxref=GOA:Q04360,InterPro:IPR008648,UniProtKB/Swiss-Prot:Q04360,Genbank:YP_401659.1,GeneID:3783758;Name=YP_401659.1;gbkey=CDS;gene=SM%2C spliced BSLF2+BMLF1;product=ICP27 homolog;protein_id=YP_401659.1
+NC_007605.1	RefSeq	gene	70455	71771	.	-	.	ID=gene48;Dbxref=GeneID:17494210;Name=BMLF1;gbkey=Gene;gene=BMLF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	70455	71771	.	-	0	ID=cds33;Parent=gene48;Dbxref=GOA:Q04360,InterPro:IPR008648,UniProtKB/Swiss-Prot:Q04360,Genbank:YP_401660.1,GeneID:17494210;Name=YP_401660.1;gbkey=CDS;gene=BMLF1;product=BMLF1 protein;protein_id=YP_401660.1
+NC_007605.1	RefSeq	gene	71881	72000	.	-	.	ID=gene49;Dbxref=GeneID:17494219;Name=BSLF2;gbkey=Gene;gene=BSLF2;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	71881	72000	.	-	0	ID=cds34;Parent=gene49;Dbxref=UniProtKB/TrEMBL:Q9QCF1,Genbank:YP_401661.1,GeneID:17494219;Name=YP_401661.1;gbkey=CDS;gene=BSLF2;product=BSLF2 protein;protein_id=YP_401661.1
+NC_007605.1	RefSeq	gene	71969	74593	.	-	.	ID=gene50;Dbxref=GeneID:3783730;Name=BSLF1;gbkey=Gene;gene=BSLF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	71969	74593	.	-	0	ID=cds35;Parent=gene50;Dbxref=GOA:Q777F5,InterPro:IPR004340,UniProtKB/TrEMBL:Q777F5,Genbank:YP_401662.1,GeneID:3783730;Name=YP_401662.1;gbkey=CDS;gene=BSLF1;product=helicase/primase complex protein;protein_id=YP_401662.1
+NC_007605.1	RefSeq	gene	72063	72068	.	-	.	ID=gene51;Dbxref=GeneID:17494188;Name=SM;gbkey=Gene;gene=SM;gene_biotype=other
+NC_007605.1	RefSeq	region	72063	72068	.	-	.	ID=id150;Dbxref=GeneID:17494188;gbkey=TATA_signal;gene=SM
+NC_007605.1	RefSeq	gene	74594	75316	.	+	.	ID=gene52;Dbxref=GeneID:3783731;Name=BSRF1;gbkey=Gene;gene=BSRF1;gene_biotype=protein_coding;locus_tag=HHV4_BSRF1;partial=true
+NC_007605.1	RefSeq	CDS	74636	75292	.	+	0	ID=cds36;Parent=gene52;Dbxref=GOA:Q777F4,InterPro:IPR006832,InterPro:IPR007619,UniProtKB/TrEMBL:Q777F4,Genbank:YP_401663.1,GeneID:3783731;Name=YP_401663.1;gbkey=CDS;gene=BSRF1;product=BSRF1 protein;protein_id=YP_401663.1
+NC_007605.1	RefSeq	region	75311	75316	.	+	.	ID=id151;Dbxref=GeneID:3783731;gbkey=polyA_signal;gene=BSRF1
+NC_007605.1	RefSeq	region	74594	74599	.	+	.	ID=id152;Dbxref=GeneID:3783731;gbkey=TATA_signal;gene=BSRF1
+NC_007605.1	RefSeq	gene	75320	75325	.	-	.	ID=gene53;Dbxref=GeneID:17494189;Name=BLL3;gbkey=Gene;gene=BLL3;gene_biotype=other
+NC_007605.1	RefSeq	region	75320	75325	.	-	.	ID=id153;Dbxref=GeneID:17494189;gbkey=polyA_signal;gene=BLL3
+NC_007605.1	RefSeq	gene	75350	76231	.	-	.	ID=gene54;Dbxref=GeneID:3783715;Name=BLLF3;gbkey=Gene;gene=BLLF3;gene_biotype=protein_coding;locus_tag=HHV4_BLLF3;partial=true
+NC_007605.1	RefSeq	CDS	75350	76186	.	-	0	ID=cds37;Parent=gene54;Dbxref=GOA:P03195,InterPro:IPR008180,PDB:2BSY,PDB:2BT1,PDB:2WE0,PDB:2WE1,PDB:2WE2,PDB:2WE3,UniProtKB/Swiss-Prot:P03195,Genbank:YP_401664.1,GeneID:3783715;Name=YP_401664.1;gbkey=CDS;gene=BLLF3;product=deoxyuridine 5'-triphosphate nucleotidohydrolase;protein_id=YP_401664.1
+NC_007605.1	RefSeq	region	76226	76231	.	-	.	ID=id154;Dbxref=GeneID:3783715;gbkey=TATA_signal;gene=BLLF3
+NC_007605.1	RefSeq	gene	76219	76567	.	+	.	ID=gene55;Dbxref=GeneID:3783716;Name=BLRF1;gbkey=Gene;gene=BLRF1;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	CDS	76259	76567	.	+	0	ID=cds38;Parent=gene55;Dbxref=GOA:P03196,InterPro:IPR005211,UniProtKB/Swiss-Prot:P03196,Genbank:YP_401665.1,GeneID:3783716;Name=YP_401665.1;gbkey=CDS;gene=BLRF1;product=putative membrane protein BLRF1;protein_id=YP_401665.1
+NC_007605.1	RefSeq	region	76219	76224	.	+	.	ID=id155;Dbxref=GeneID:3783716;gbkey=TATA_signal;gene=BLRF1
+NC_007605.1	RefSeq	gene	76575	77125	.	+	.	ID=gene56;Dbxref=GeneID:3783717;Name=BLRF2;gbkey=Gene;gene=BLRF2;gene_biotype=protein_coding;locus_tag=HHV4_BLRF2;partial=true
+NC_007605.1	RefSeq	CDS	76637	77125	.	+	0	ID=cds39;Parent=gene56;Dbxref=GOA:P03197,InterPro:IPR008642,UniProtKB/Swiss-Prot:P03197,Genbank:YP_401666.1,GeneID:3783717;Name=YP_401666.1;gbkey=CDS;gene=BLRF2;product=putative BLRF2 protein;protein_id=YP_401666.1
+NC_007605.1	RefSeq	region	76575	76580	.	+	.	ID=id156;Dbxref=GeneID:3783717;gbkey=TATA_signal;gene=BLRF2
+NC_007605.1	RefSeq	gene	77124	77129	.	+	.	ID=gene57;Dbxref=GeneID:17494218;Name=BLRF1;gbkey=Gene;gene=BLRF1;gene_biotype=other
+NC_007605.1	RefSeq	region	77124	77129	.	+	.	ID=id157;Dbxref=GeneID:17494218;gbkey=polyA_signal;gene=BLRF1
+NC_007605.1	RefSeq	gene	77132	77137	.	-	.	ID=gene58;Dbxref=GeneID:17494217;Name=BLLF1;gbkey=Gene;gene=BLLF1;gene_biotype=other
+NC_007605.1	RefSeq	region	77132	77137	.	-	.	ID=id158;Dbxref=GeneID:17494217;gbkey=polyA_signal;gene=BLLF1
+NC_007605.1	RefSeq	gene	77142	79865	.	-	.	ID=gene59;Dbxref=GeneID:3783713;Name=BLLF1;gbkey=Gene;gene=BLLF1;gene_biotype=protein_coding;locus_tag=HHV4_BLLF1
+NC_007605.1	RefSeq	CDS	77142	79865	.	-	0	ID=cds40;Parent=gene59;Dbxref=GOA:Q777F0,InterPro:IPR007796,UniProtKB/TrEMBL:Q777F0,Genbank:YP_401667.1,GeneID:3783713;Name=YP_401667.1;gbkey=CDS;gene=BLLF1;product=envelope glycoprotein gp350;protein_id=YP_401667.1
+NC_007605.1	RefSeq	gene	77279	77763	.	-	.	ID=gene60;Dbxref=GeneID:3783714;Name=BLLF2;gbkey=Gene;gene=BLLF2;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	CDS	77279	77725	.	-	0	ID=cds41;Parent=gene60;Dbxref=UniProtKB/TrEMBL:Q777E9,Genbank:YP_401668.1,GeneID:3783714;Name=YP_401668.1;gbkey=CDS;gene=BLLF2;product=putative BLLF2 protein;protein_id=YP_401668.1
+NC_007605.1	RefSeq	region	77758	77763	.	-	.	ID=id159;Dbxref=GeneID:3783714;gbkey=TATA_signal;gene=BLLF2
+NC_007605.1	RefSeq	gene	77774	78364	.	-	.	ID=gene61;Dbxref=GeneID:17494215;Name=gp220 form of gp350;gbkey=Gene;gene=gp220 form of gp350;gene_biotype=other
+NC_007605.1	RefSeq	intron	77774	78364	.	-	.	ID=id160;Dbxref=GeneID:17494215;gbkey=intron;gene=gp220 form of gp350
+NC_007605.1	RefSeq	gene	79899	79904	.	-	.	ID=gene62;Dbxref=GeneID:17494202;Name=BLLF2;gbkey=Gene;gene=BLLF2;gene_biotype=other
+NC_007605.1	RefSeq	region	79899	79904	.	-	.	ID=id161;Dbxref=GeneID:17494202;gbkey=TATA_signal;gene=BLLF2
+NC_007605.1	RefSeq	gene	82933	82938	.	+	.	ID=gene63;Dbxref=GeneID:17494216;Name=EBNA3A;gbkey=Gene;gene=EBNA3A;gene_biotype=other
+NC_007605.1	RefSeq	region	82933	82938	.	+	.	ID=id162;Dbxref=GeneID:17494216;gbkey=polyA_signal;gene=EBNA3A
+NC_007605.1	RefSeq	region	82979	82984	.	-	.	ID=id163;Note=unknown gene;gbkey=polyA_signal
+NC_007605.1	RefSeq	gene	83065	89502	.	+	.	ID=gene64;Dbxref=GeneID:3783763;Name=EBNA3B;gbkey=Gene;gene=EBNA3B;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	mRNA	83065	89502	.	+	.	ID=rna5;Parent=gene64;Dbxref=GeneID:3783763;gbkey=mRNA;gene=EBNA3B
+NC_007605.1	RefSeq	exon	83065	83421	.	+	.	ID=id164;Parent=rna5;Dbxref=GeneID:3783763;gbkey=mRNA;gene=EBNA3B
+NC_007605.1	RefSeq	exon	83500	89502	.	+	.	ID=id165;Parent=rna5;Dbxref=GeneID:3783763;gbkey=mRNA;gene=EBNA3B
+NC_007605.1	RefSeq	CDS	83065	83421	.	+	0	ID=cds42;Parent=rna5;Dbxref=GOA:P03203,InterPro:IPR007706,UniProtKB/Swiss-Prot:P03203,Genbank:YP_401670.1,GeneID:3783763;Name=YP_401670.1;gbkey=CDS;gene=EBNA3B;product=EBNA-3B nuclear protein;protein_id=YP_401670.1
+NC_007605.1	RefSeq	CDS	83500	85959	.	+	0	ID=cds42;Parent=rna5;Dbxref=GOA:P03203,InterPro:IPR007706,UniProtKB/Swiss-Prot:P03203,Genbank:YP_401670.1,GeneID:3783763;Name=YP_401670.1;gbkey=CDS;gene=EBNA3B;product=EBNA-3B nuclear protein;protein_id=YP_401670.1
+NC_007605.1	RefSeq	repeat_region	85234	85410	.	+	.	ID=id166;Dbxref=GeneID:3783763;gbkey=repeat_region;gene=EBNA3B;rpt_unit_range=85234..85293
+NC_007605.1	RefSeq	region	83526	83531	.	-	.	ID=id167;Note=unknown gene;gbkey=polyA_signal
+NC_007605.1	RefSeq	region	83983	83988	.	-	.	ID=id168;Note=unknown gene;gbkey=polyA_signal
+NC_007605.1	RefSeq	gene	86035	86481	.	+	.	ID=gene65;Dbxref=GeneID:17494200;Name=BERF3;gbkey=Gene;gene=BERF3;gene_biotype=other
+NC_007605.1	RefSeq	mature_protein_region	86035	86481	.	+	.	ID=id169;gbkey=mat_peptide
+NC_007605.1	RefSeq	gene	86076	89502	.	+	.	ID=gene66;Dbxref=GeneID:17494242;Name=EBNA3C;gbkey=Gene;gene=EBNA3C;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	mRNA	86076	89502	.	+	.	ID=rna6;Parent=gene66;Dbxref=GeneID:17494242;gbkey=mRNA;gene=EBNA3C
+NC_007605.1	RefSeq	exon	86076	86442	.	+	.	ID=id170;Parent=rna6;Dbxref=GeneID:17494242;gbkey=mRNA;gene=EBNA3C
+NC_007605.1	RefSeq	exon	86517	89502	.	+	.	ID=id171;Parent=rna6;Dbxref=GeneID:17494242;gbkey=mRNA;gene=EBNA3C
+NC_007605.1	RefSeq	CDS	86083	86442	.	+	0	ID=cds43;Parent=rna6;Dbxref=GOA:P03204,InterPro:IPR007706,PDB:2BSR,PDB:3DXA,UniProtKB/Swiss-Prot:P03204,Genbank:YP_401671.1,GeneID:17494242;Name=YP_401671.1;gbkey=CDS;gene=EBNA3C;product=EBNA3C latent protein;protein_id=YP_401671.1
+NC_007605.1	RefSeq	CDS	86517	89135	.	+	0	ID=cds43;Parent=rna6;Dbxref=GOA:P03204,InterPro:IPR007706,PDB:2BSR,PDB:3DXA,UniProtKB/Swiss-Prot:P03204,Genbank:YP_401671.1,GeneID:17494242;Name=YP_401671.1;gbkey=CDS;gene=EBNA3C;product=EBNA3C latent protein;protein_id=YP_401671.1
+NC_007605.1	RefSeq	sequence_feature	88325	88325	.	+	.	ID=id172;Dbxref=GeneID:17494242;Note=BAM: Bam H1 E/e1;gbkey=misc_feature;gene=EBNA3C
+NC_007605.1	RefSeq	sequence_feature	88631	88631	.	+	.	ID=id173;Dbxref=GeneID:17494242;Note=BAM: Bam H1 e1/e2;gbkey=misc_feature;gene=EBNA3C
+NC_007605.1	RefSeq	sequence_feature	89138	89138	.	+	.	ID=id174;Dbxref=GeneID:17494242;Note=BAM: Bam H1 e2/e3;gbkey=misc_feature;gene=EBNA3C
+NC_007605.1	RefSeq	repeat_region	87834	88016	.	+	.	ID=id175;Dbxref=GeneID:17494242;gbkey=repeat_region;gene=EBNA3C;rpt_unit_range=87834..87848
+NC_007605.1	RefSeq	repeat_region	88377	88493	.	+	.	ID=id176;Dbxref=GeneID:17494242;gbkey=repeat_region;gene=EBNA3C;rpt_unit_range=88377..88415
+NC_007605.1	RefSeq	gene	86076	86442	.	+	.	ID=gene67;Dbxref=GeneID:17494201;Name=EBNA1 leader sequence;gbkey=Gene;gene=EBNA1 leader sequence;gene_biotype=other
+NC_007605.1	RefSeq	exon	86076	86442	.	+	.	ID=id177;Parent=gene67;Dbxref=GeneID:17494201;gbkey=exon;gene=EBNA1 leader sequence
+NC_007605.1	RefSeq	gene	89157	89872	.	-	.	ID=gene68;Dbxref=GeneID:3783745;Name=BZLF2;gbkey=Gene;gene=BZLF2;gene_biotype=protein_coding;locus_tag=HHV4_BZLF2;partial=true
+NC_007605.1	RefSeq	CDS	89157	89828	.	-	0	ID=cds44;Parent=gene68;Dbxref=GOA:P03205,InterPro:IPR001304,InterPro:IPR016186,InterPro:IPR016187,PDB:1KG0,PDB:3FD4,UniProtKB/Swiss-Prot:P03205,Genbank:YP_401672.1,GeneID:3783745;Name=YP_401672.1;gbkey=CDS;gene=BZLF2;product=putative BZLF2 protein;protein_id=YP_401672.1
+NC_007605.1	RefSeq	region	89867	89872	.	-	.	ID=id178;Dbxref=GeneID:3783745;gbkey=TATA_signal;gene=BZLF2
+NC_007605.1	RefSeq	gene	89477	89482	.	+	.	ID=gene69;Dbxref=GeneID:17494198;Name=EBNA-3C;gbkey=Gene;gene=EBNA-3C;gene_biotype=other
+NC_007605.1	RefSeq	region	89477	89482	.	+	.	ID=id179;Dbxref=GeneID:17494198;gbkey=polyA_signal;gene=EBNA-3C
+NC_007605.1	RefSeq	gene	89838	93893	.	-	.	ID=gene70;Dbxref=GeneID:3783727;Name=BRLF1;gbkey=Gene;gene=BRLF1;gene_biotype=protein_coding;locus_tag=HHV4_BRLF1;partial=true
+NC_007605.1	RefSeq	mRNA	89838	93893	.	-	.	ID=rna7;Parent=gene70;Dbxref=GeneID:3783727;gbkey=mRNA;gene=BRLF1
+NC_007605.1	RefSeq	exon	93838	93893	.	-	.	ID=id180;Parent=rna7;Dbxref=GeneID:3783727;gbkey=mRNA;gene=BRLF1
+NC_007605.1	RefSeq	exon	90367	92897	.	-	.	ID=id181;Parent=rna7;Dbxref=GeneID:3783727;gbkey=mRNA;gene=BRLF1
+NC_007605.1	RefSeq	exon	90138	90242	.	-	.	ID=id182;Parent=rna7;Dbxref=GeneID:3783727;gbkey=mRNA;gene=BRLF1
+NC_007605.1	RefSeq	exon	89838	90053	.	-	.	ID=id183;Parent=rna7;Dbxref=GeneID:3783727;gbkey=mRNA;gene=BRLF1
+NC_007605.1	RefSeq	CDS	91078	92895	.	-	0	ID=cds45;Parent=rna7;Dbxref=GOA:Q777E4,InterPro:IPR004998,UniProtKB/TrEMBL:Q777E4,Genbank:YP_401674.1,GeneID:3783727;Name=YP_401674.1;gbkey=CDS;gene=BRLF1;product=hypothetical protein;protein_id=YP_401674.1
+NC_007605.1	RefSeq	sequence_feature	90968	91023	.	-	.	ID=id184;Dbxref=GeneID:3783727;Note=Upstream of Zp%2C homology to complement (93900 to 93955);gbkey=misc_feature;gene=BRLF1
+NC_007605.1	RefSeq	gene	89838	90906	.	-	.	ID=gene71;Dbxref=GeneID:3783744;Name=BZLF1;gbkey=Gene;gene=BZLF1;gene_biotype=protein_coding;locus_tag=HHV4_BZLF1;partial=true
+NC_007605.1	RefSeq	region	89863	89868	.	-	.	ID=id185;Dbxref=GeneID:3783744;gbkey=polyA_signal;gene=BZLF1
+NC_007605.1	RefSeq	mRNA	89838	90906	.	-	.	ID=rna8;Parent=gene71;Dbxref=GeneID:3783744;gbkey=mRNA;gene=BZLF1
+NC_007605.1	RefSeq	exon	90367	90906	.	-	.	ID=id186;Parent=rna8;Dbxref=GeneID:3783744;gbkey=mRNA;gene=BZLF1
+NC_007605.1	RefSeq	exon	90138	90242	.	-	.	ID=id187;Parent=rna8;Dbxref=GeneID:3783744;gbkey=mRNA;gene=BZLF1
+NC_007605.1	RefSeq	exon	89838	90053	.	-	.	ID=id188;Parent=rna8;Dbxref=GeneID:3783744;gbkey=mRNA;gene=BZLF1
+NC_007605.1	RefSeq	CDS	90367	90867	.	-	0	ID=cds46;Parent=rna8;Dbxref=GOA:Q777E5,InterPro:IPR004827,InterPro:IPR011616,InterPro:IPR017339,UniProtKB/TrEMBL:Q777E5,Genbank:YP_401673.1,GeneID:3783744;Name=YP_401673.1;gbkey=CDS;gene=BZLF1;product=hypothetical protein;protein_id=YP_401673.1
+NC_007605.1	RefSeq	CDS	90138	90242	.	-	0	ID=cds46;Parent=rna8;Dbxref=GOA:Q777E5,InterPro:IPR004827,InterPro:IPR011616,InterPro:IPR017339,UniProtKB/TrEMBL:Q777E5,Genbank:YP_401673.1,GeneID:3783744;Name=YP_401673.1;gbkey=CDS;gene=BZLF1;product=hypothetical protein;protein_id=YP_401673.1
+NC_007605.1	RefSeq	CDS	89922	90053	.	-	0	ID=cds46;Parent=rna8;Dbxref=GOA:Q777E5,InterPro:IPR004827,InterPro:IPR011616,InterPro:IPR017339,UniProtKB/TrEMBL:Q777E5,Genbank:YP_401673.1,GeneID:3783744;Name=YP_401673.1;gbkey=CDS;gene=BZLF1;product=hypothetical protein;protein_id=YP_401673.1
+NC_007605.1	RefSeq	gene	90938	90943	.	-	.	ID=gene72;Dbxref=GeneID:17494196;Name=BZLF1;gbkey=Gene;gene=BZLF1;gene_biotype=other
+NC_007605.1	RefSeq	region	90938	90943	.	-	.	ID=id189;Dbxref=GeneID:17494196;gbkey=TATA_signal;gene=BZLF1
+NC_007605.1	RefSeq	gene	92638	92897	.	-	.	ID=gene73;Dbxref=GeneID:17494197;Name=RZ fusion;gbkey=Gene;gene=RZ fusion;gene_biotype=other
+NC_007605.1	RefSeq	exon	92638	92897	.	-	.	ID=id190;Parent=gene73;Dbxref=GeneID:17494197;gbkey=exon;gene=RZ fusion
+NC_007605.1	RefSeq	gene	92728	93827	.	+	.	ID=gene74;Dbxref=GeneID:3783728;Name=BRRF1;gbkey=Gene;gene=BRRF1;gene_biotype=protein_coding;locus_tag=HHV4_BRRF1;partial=true
+NC_007605.1	RefSeq	CDS	92894	93826	.	+	0	ID=cds47;Parent=gene74;Dbxref=GOA:P03207,InterPro:IPR006878,UniProtKB/Swiss-Prot:P03207,Genbank:YP_401675.1,GeneID:3783728;Name=YP_401675.1;gbkey=CDS;gene=BRRF1;product=putative BRRF1 protein;protein_id=YP_401675.1
+NC_007605.1	RefSeq	region	93822	93827	.	+	.	ID=id191;Dbxref=GeneID:3783728;gbkey=polyA_signal;gene=BRRF1
+NC_007605.1	RefSeq	region	92728	92733	.	+	.	ID=id192;Dbxref=GeneID:3783728;gbkey=TATA_signal;gene=BRRF1
+NC_007605.1	RefSeq	gene	93920	93925	.	-	.	ID=gene75;Dbxref=GeneID:17494186;Name=BRLF1;gbkey=Gene;gene=BRLF1;gene_biotype=other
+NC_007605.1	RefSeq	region	93920	93925	.	-	.	ID=id193;Dbxref=GeneID:17494186;gbkey=TATA_signal;gene=BRLF1
+NC_007605.1	RefSeq	gene	93955	95627	.	+	.	ID=gene76;Dbxref=GeneID:3783729;Name=BRRF2;gbkey=Gene;gene=BRRF2;gene_biotype=protein_coding;locus_tag=HHV4_BRRF2;partial=true
+NC_007605.1	RefSeq	CDS	94014	95627	.	+	0	ID=cds48;Parent=gene76;Dbxref=GOA:P03210,InterPro:IPR008550,UniProtKB/Swiss-Prot:P03210,Genbank:YP_401676.1,GeneID:3783729;Name=YP_401676.1;gbkey=CDS;gene=BRRF2;product=putative BRRF2 protein;protein_id=YP_401676.1
+NC_007605.1	RefSeq	sequence_feature	95169	95169	.	+	.	ID=id194;Dbxref=GeneID:3783729;Note=BAM: Bam H1 R/f;gbkey=misc_feature;gene=BRRF2
+NC_007605.1	RefSeq	sequence_feature	95277	95277	.	+	.	ID=id195;Dbxref=GeneID:3783729;Note=BAM: Bam H1 f/K;gbkey=misc_feature;gene=BRRF2
+NC_007605.1	RefSeq	region	93955	93960	.	+	.	ID=id196;Dbxref=GeneID:3783729;gbkey=TATA_signal;gene=BRRF2
+NC_007605.1	RefSeq	region	94092	94097	.	-	.	ID=id197;Note=unknown gene;gbkey=TATA_signal
+NC_007605.1	RefSeq	gene	95626	95631	.	+	.	ID=gene77;Dbxref=GeneID:17494187;Name=BBRF2;gbkey=Gene;gene=BBRF2;gene_biotype=other
+NC_007605.1	RefSeq	region	95626	95631	.	+	.	ID=id198;Dbxref=GeneID:17494187;gbkey=polyA_signal;gene=BBRF2
+NC_007605.1	RefSeq	gene	95662	97587	.	+	.	ID=gene78;Dbxref=GeneID:3783709;Name=BKRF1;gbkey=Gene;gene=BKRF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	95662	97587	.	+	0	ID=cds49;Parent=gene78;Dbxref=GOA:P03211,InterPro:IPR004186,InterPro:IPR009021,PDB:1B3T,PDB:1VHI,PDB:1YY6,PDB:2FYY,PDB:2FZ3,PDB:3MV7,PDB:3MV8,PDB:3MV9,UniProtKB/Swiss-Prot:P03211,Genbank:YP_401677.1,GeneID:3783709;Name=YP_401677.1;gbkey=CDS;gene=BKRF1;product=EBNA-1 protein;protein_id=YP_401677.1
+NC_007605.1	RefSeq	repeat_region	95929	96636	.	+	.	ID=id199;Dbxref=GeneID:3783709;gbkey=repeat_region;gene=BKRF1;rpt_family=EBNA triplet repeat GGA%2CGCA%2CGGG
+NC_007605.1	RefSeq	gene	97617	97621	.	+	.	ID=gene79;Dbxref=GeneID:17494213;Name=BKRF2;gbkey=Gene;gene=BKRF2;gene_biotype=other
+NC_007605.1	RefSeq	region	97617	97621	.	+	.	ID=id200;Dbxref=GeneID:17494213;gbkey=TATA_signal;gene=BKRF2
+NC_007605.1	RefSeq	gene	97649	97654	.	+	.	ID=gene80;Dbxref=GeneID:17494214;Name=EBNA-1;gbkey=Gene;gene=EBNA-1;gene_biotype=other
+NC_007605.1	RefSeq	region	97649	97654	.	+	.	ID=id201;Dbxref=GeneID:17494214;gbkey=polyA_signal;gene=EBNA-1
+NC_007605.1	RefSeq	gene	97670	98083	.	+	.	ID=gene81;Dbxref=GeneID:3783710;Name=BKRF2;gbkey=Gene;gene=BKRF2;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	97670	98083	.	+	0	ID=cds50;Parent=gene81;Dbxref=GOA:P03212,InterPro:IPR020175,UniProtKB/Swiss-Prot:P03212,Genbank:YP_401678.1,GeneID:3783710;Name=YP_401678.1;gbkey=CDS;gene=BKRF2;product=glycoprotein L precursor;protein_id=YP_401678.1
+NC_007605.1	RefSeq	gene	98065	99436	.	+	.	ID=gene82;Dbxref=GeneID:3783711;Name=BKRF3;gbkey=Gene;gene=BKRF3;gene_biotype=protein_coding;locus_tag=HHV4_BKRF3;partial=true
+NC_007605.1	RefSeq	region	99431	99436	.	+	.	ID=id202;Dbxref=GeneID:3783711;gbkey=polyA_signal;gene=BKRF3
+NC_007605.1	RefSeq	CDS	98065	98832	.	+	0	ID=cds51;Parent=gene82;Dbxref=GOA:Q777D9,InterPro:IPR002043,InterPro:IPR005122,InterPro:IPR018085,PDB:2J8X,UniProtKB/TrEMBL:Q777D9,Genbank:YP_401679.1,GeneID:3783711;Name=YP_401679.1;gbkey=CDS;gene=BKRF3;product=uracil-DNA glycosylase;protein_id=YP_401679.1
+NC_007605.1	RefSeq	gene	98846	99499	.	+	.	ID=gene83;Dbxref=GeneID:3783712;Name=BKRF4;gbkey=Gene;gene=BKRF4;gene_biotype=protein_coding;locus_tag=HHV4_BKRF4
+NC_007605.1	RefSeq	CDS	98846	99499	.	+	0	ID=cds52;Parent=gene83;Dbxref=GOA:P30117,UniProtKB/Swiss-Prot:P30117,Genbank:YP_401680.1,GeneID:3783712;Name=YP_401680.1;gbkey=CDS;gene=BKRF4;product=putative BKRF4 protein;protein_id=YP_401680.1
+NC_007605.1	RefSeq	gene	99537	101971	.	-	.	ID=gene84;Dbxref=GeneID:3783685;Name=BBLF4;gbkey=Gene;gene=BBLF4;gene_biotype=protein_coding;locus_tag=HHV4_BBLF4
+NC_007605.1	RefSeq	CDS	99542	101971	.	-	0	ID=cds53;Parent=gene84;Dbxref=GOA:Q777D7,InterPro:IPR003840,UniProtKB/TrEMBL:Q777D7,Genbank:YP_401681.1,GeneID:3783685;Name=YP_401681.1;gbkey=CDS;gene=BBLF4;product=putative helicase;protein_id=YP_401681.1
+NC_007605.1	RefSeq	region	99537	99542	.	-	.	ID=id203;Dbxref=GeneID:3783685;gbkey=polyA_signal;gene=BBLF4
+NC_007605.1	RefSeq	gene	101588	101593	.	+	.	ID=gene85;Dbxref=GeneID:17494233;Name=BBRF1;gbkey=Gene;gene=BBRF1;gene_biotype=other
+NC_007605.1	RefSeq	region	101588	101593	.	+	.	ID=id204;Dbxref=GeneID:17494233;gbkey=TATA_signal;gene=BBRF1
+NC_007605.1	RefSeq	gene	103660	104496	.	+	.	ID=gene86;Dbxref=GeneID:3783686;Name=BBRF2;gbkey=Gene;gene=BBRF2;gene_biotype=protein_coding;locus_tag=HHV4_BBRF2
+NC_007605.1	RefSeq	CDS	103660	104496	.	+	0	ID=cds54;Parent=gene86;Dbxref=InterPro:IPR002600,UniProtKB/Swiss-Prot:P29882,Genbank:YP_401683.1,GeneID:3783686;Name=YP_401683.1;gbkey=CDS;gene=BBRF2;product=BBRF2 protein;protein_id=YP_401683.1
+NC_007605.1	RefSeq	gene	104408	106792	.	-	.	ID=gene87;Dbxref=GeneID:3783684;Name=BBLF2-BBLF3;gbkey=Gene;gene=BBLF2-BBLF3;gene_biotype=protein_coding;locus_tag=HHV4_BBLF2/BBLF3;partial=true
+NC_007605.1	RefSeq	CDS	105227	106792	.	-	0	ID=cds55;Parent=gene87;Dbxref=GOA:Q8AZJ7,InterPro:IPR004996,UniProtKB/TrEMBL:Q8AZJ7,Genbank:YP_401684.2,GeneID:3783684;Name=YP_401684.2;end_range=106792,.;gbkey=CDS;gene=BBLF2-BBLF3;partial=true;product=putative BBLF3 protein;protein_id=YP_401684.2
+NC_007605.1	RefSeq	CDS	104493	105098	.	-	0	ID=cds55;Parent=gene87;Dbxref=GOA:Q8AZJ7,InterPro:IPR004996,UniProtKB/TrEMBL:Q8AZJ7,Genbank:YP_401684.2,GeneID:3783684;Name=YP_401684.2;gbkey=CDS;gene=BBLF2-BBLF3;partial=true;product=putative BBLF3 protein;protein_id=YP_401684.2
+NC_007605.1	RefSeq	intron	105098	105227	.	-	.	ID=id205;Dbxref=GeneID:3783684;Note=intron spliced out in RNA linking BBLF2 and BBLF3;gbkey=intron;gene=BBLF2-BBLF3
+NC_007605.1	RefSeq	region	104408	104408	.	-	.	ID=id206;Dbxref=GeneID:3783684;gbkey=polyA_signal;gene=BBLF2-BBLF3
+NC_007605.1	RefSeq	gene	104497	104502	.	+	.	ID=gene88;Dbxref=GeneID:17494232;Name=BBRF1;gbkey=Gene;gene=BBRF1;gene_biotype=other
+NC_007605.1	RefSeq	region	104497	104502	.	+	.	ID=id207;Dbxref=GeneID:17494232;gbkey=polyA_signal;gene=BBRF1
+NC_007605.1	RefSeq	gene	106693	108075	.	+	.	ID=gene89;Dbxref=GeneID:3783687;Name=BBRF3;gbkey=Gene;gene=BBRF3;gene_biotype=protein_coding;locus_tag=HHV4_BBRF3;partial=true
+NC_007605.1	RefSeq	CDS	106849	108066	.	+	0	ID=cds56;Parent=gene89;Dbxref=GOA:P03215,InterPro:IPR000785,UniProtKB/Swiss-Prot:P03215,Genbank:YP_401685.1,GeneID:3783687;Name=YP_401685.1;gbkey=CDS;gene=BBRF3;product=glycoprotein M;protein_id=YP_401685.1
+NC_007605.1	RefSeq	region	108070	108075	.	+	.	ID=id208;Dbxref=GeneID:3783687;gbkey=polyA_signal;gene=BBRF3
+NC_007605.1	RefSeq	region	106693	106698	.	+	.	ID=id209;Dbxref=GeneID:3783687;gbkey=TATA_signal;gene=BBRF3
+NC_007605.1	RefSeq	region	106810	106815	.	+	.	ID=id210;Dbxref=GeneID:3783687;gbkey=TATA_signal;gene=BBRF3
+NC_007605.1	RefSeq	gene	108459	110053	.	-	.	ID=gene90;Dbxref=GeneID:3783773;Name=BGLF5;gbkey=Gene;gene=BGLF5;gene_biotype=protein_coding;locus_tag=HHV4_BGLF5
+NC_007605.1	RefSeq	CDS	108641	110053	.	-	0	ID=cds57;Parent=gene90;Dbxref=GOA:P03217,InterPro:IPR001616,InterPro:IPR011335,InterPro:IPR011604,PDB:2W45,PDB:2W4B,UniProtKB/Swiss-Prot:P03217,Genbank:YP_401687.1,GeneID:3783773;Name=YP_401687.1;Note=BGLF5;gbkey=CDS;gene=BGLF5;product=alkaline exonuclease;protein_id=YP_401687.1
+NC_007605.1	RefSeq	gene	108459	109043	.	-	.	ID=gene91;Dbxref=GeneID:3783765;Name=BBLF1;gbkey=Gene;gene=BBLF1;gene_biotype=protein_coding;locus_tag=HHV4_BBLF1
+NC_007605.1	RefSeq	CDS	108459	108686	.	-	0	ID=cds58;Parent=gene91;Dbxref=InterPro:IPR020110,UniProtKB/TrEMBL:Q777D3,Genbank:YP_401686.1,GeneID:3783765;Name=YP_401686.1;Note=BBLF1;gbkey=CDS;gene=BBLF1;product=putative protein BBLF1;protein_id=YP_401686.1
+NC_007605.1	RefSeq	gene	108471	108476	.	-	.	ID=gene92;Dbxref=GeneID:17494211;Name=BGLF5;gbkey=Gene;gene=BGLF5;gene_biotype=other
+NC_007605.1	RefSeq	region	108471	108476	.	-	.	ID=id211;Dbxref=GeneID:17494211;gbkey=polyA_signal;gene=BGLF5
+NC_007605.1	RefSeq	gene	109038	109043	.	-	.	ID=gene93;Dbxref=GeneID:17494249;Name=BBLF1;gbkey=Gene;gene=BBLF1;gene_biotype=other
+NC_007605.1	RefSeq	region	109038	109043	.	-	.	ID=id212;Dbxref=GeneID:17494249;gbkey=TATA_signal;gene=BBLF1
+NC_007605.1	RefSeq	gene	110037	111326	.	-	.	ID=gene94;Dbxref=GeneID:3783704;Name=BGLF4;gbkey=Gene;gene=BGLF4;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	110037	111326	.	-	0	ID=cds59;Parent=gene94;Dbxref=GOA:P13288,InterPro:IPR000719,InterPro:IPR008266,InterPro:IPR011009,UniProtKB/Swiss-Prot:P13288,Genbank:YP_401688.1,GeneID:3783704;Name=YP_401688.1;Note=herpesvirus core gene UL13 family%3B~ORF36;gbkey=CDS;gene=BGLF4;product=BGLF4 protein;protein_id=YP_401688.1
+NC_007605.1	RefSeq	gene	111205	111666	.	-	.	ID=gene95;Dbxref=GeneID:17494247;Name=BGLF3.5;gbkey=Gene;gene=BGLF3.5;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	111205	111666	.	-	0	ID=cds60;Parent=gene95;Dbxref=InterPro:IPR008566,UniProtKB/TrEMBL:Q2MG96,Genbank:YP_007474186.1,GeneID:17494247;Name=YP_007474186.1;Note=herpesvirus core gene UL14 family%3B~ORF35;gbkey=CDS;gene=BGLF3.5;product=BGLF3.5 protein;protein_id=YP_007474186.1
+NC_007605.1	RefSeq	gene	111653	112651	.	-	.	ID=gene96;Dbxref=GeneID:3783703;Name=BGLF3;gbkey=Gene;gene=BGLF3;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	111653	112651	.	-	0	ID=cds61;Parent=gene96;Dbxref=InterPro:IPR004280,UniProtKB/TrEMBL:Q777D0,Genbank:YP_401689.1,GeneID:3783703;Name=YP_401689.1;gbkey=CDS;gene=BGLF3;product=BGLF3 protein;protein_id=YP_401689.1
+NC_007605.1	RefSeq	region	111926	111931	.	-	.	ID=id213;Dbxref=GeneID:3783703;gbkey=polyA_signal;gene=BGLF3
+NC_007605.1	RefSeq	gene	111824	111829	.	-	.	ID=gene97;Dbxref=GeneID:17494246;Name=BGLF4;gbkey=Gene;gene=BGLF4;gene_biotype=other
+NC_007605.1	RefSeq	region	111824	111829	.	-	.	ID=id214;Dbxref=GeneID:17494246;gbkey=TATA_signal;gene=BGLF4
+NC_007605.1	RefSeq	gene	112819	112825	.	-	.	ID=gene98;Dbxref=GeneID:17494248;Name=BGLF3;gbkey=Gene;gene=BGLF3;gene_biotype=other
+NC_007605.1	RefSeq	region	112819	112825	.	-	.	ID=id215;Dbxref=GeneID:17494248;gbkey=TATA_signal;gene=BGLF3
+NC_007605.1	RefSeq	gene	113196	114949	.	-	.	ID=gene99;Dbxref=GeneID:3783768;Name=BGLF2;gbkey=Gene;gene=BGLF2;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	region	114636	114641	.	-	.	ID=id216;Dbxref=GeneID:3783768;gbkey=TATA_signal;gene=BGLF2
+NC_007605.1	RefSeq	region	114944	114949	.	-	.	ID=id217;Dbxref=GeneID:3783768;gbkey=TATA_signal;gene=BGLF2
+NC_007605.1	RefSeq	CDS	113575	114585	.	-	0	ID=cds62;Parent=gene99;Dbxref=GOA:Q777C8,InterPro:IPR004286,UniProtKB/TrEMBL:Q777C8,Genbank:YP_401691.1,GeneID:3783768;Name=YP_401691.1;gbkey=CDS;gene=BGLF2;product=BGLF2 protein;protein_id=YP_401691.1
+NC_007605.1	RefSeq	region	113196	113201	.	-	.	ID=id218;Dbxref=GeneID:3783768;gbkey=polyA_signal;gene=BGLF2
+NC_007605.1	RefSeq	gene	114563	116086	.	-	.	ID=gene100;Dbxref=GeneID:3783702;Name=BGLF1;gbkey=Gene;gene=BGLF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	114563	116086	.	-	0	ID=cds63;Parent=gene100;Dbxref=GOA:Q777C7,InterPro:IPR007640,UniProtKB/TrEMBL:Q777C7,Genbank:YP_401692.1,GeneID:3783702;Name=YP_401692.1;gbkey=CDS;gene=BGLF1;product=BGLF1 protein;protein_id=YP_401692.1
+NC_007605.1	RefSeq	gene	116056	116733	.	-	.	ID=gene101;Dbxref=GeneID:3783695;Name=BDLF4;gbkey=Gene;gene=BDLF4;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	116056	116733	.	-	0	ID=cds64;Parent=gene101;Dbxref=InterPro:IPR004289,UniProtKB/TrEMBL:Q777C6,Genbank:YP_401693.1,GeneID:3783695;Name=YP_401693.1;gbkey=CDS;gene=BDLF4;product=BDLF4 protein;protein_id=YP_401693.1
+NC_007605.1	RefSeq	gene	116139	116144	.	-	.	ID=gene102;Dbxref=GeneID:17494239;Name=BGLF1;gbkey=Gene;gene=BGLF1;gene_biotype=other
+NC_007605.1	RefSeq	region	116139	116144	.	-	.	ID=id219;Dbxref=GeneID:17494239;gbkey=TATA_signal;gene=BGLF1
+NC_007605.1	RefSeq	gene	116761	117091	.	-	.	ID=gene103;Dbxref=GeneID:17494245;Name=BDLF4;gbkey=Gene;gene=BDLF4;gene_biotype=other;partial=true
+NC_007605.1	RefSeq	region	116761	116766	.	-	.	ID=id220;Dbxref=GeneID:17494245;gbkey=TATA_signal;gene=BDLF4
+NC_007605.1	RefSeq	region	117086	117091	.	-	.	ID=id221;Dbxref=GeneID:17494245;gbkey=TATA_signal;gene=BDLF4
+NC_007605.1	RefSeq	mature_protein_region	116900	118060	.	+	.	ID=id222;gbkey=mat_peptide
+NC_007605.1	RefSeq	gene	116900	118060	.	+	.	ID=gene104;Dbxref=GeneID:17494240;Name=BDRF1;gbkey=Gene;gene=BDRF1;gene_biotype=other
+NC_007605.1	RefSeq	gene	118059	118064	.	+	.	ID=gene105;Dbxref=GeneID:17494241;Name=BGRF1-BDRF1;gbkey=Gene;gene=BGRF1-BDRF1;gene_biotype=other
+NC_007605.1	RefSeq	region	118059	118064	.	+	.	ID=id223;Dbxref=GeneID:17494241;gbkey=polyA_signal;gene=BGRF1-BDRF1
+NC_007605.1	RefSeq	gene	118066	118816	.	-	.	ID=gene106;Dbxref=GeneID:3783694;Name=BDLF3;gbkey=Gene;gene=BDLF3;gene_biotype=protein_coding;locus_tag=HHV4_BDLF3;partial=true
+NC_007605.1	RefSeq	CDS	118074	118778	.	-	0	ID=cds65;Parent=gene106;Dbxref=UniProtKB/TrEMBL:Q777C5,Genbank:YP_401694.1,GeneID:3783694;Name=YP_401694.1;gbkey=CDS;gene=BDLF3;product=putative membrane antigen gp85;protein_id=YP_401694.1
+NC_007605.1	RefSeq	region	118066	118071	.	-	.	ID=id224;Dbxref=GeneID:3783694;gbkey=polyA_signal;gene=BDLF3
+NC_007605.1	RefSeq	region	118811	118816	.	-	.	ID=id225;Dbxref=GeneID:3783694;gbkey=TATA_signal;gene=BDLF3
+NC_007605.1	RefSeq	gene	118839	120188	.	-	.	ID=gene107;Dbxref=GeneID:3783693;Name=BDLF2;gbkey=Gene;gene=BDLF2;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	region	120183	120188	.	-	.	ID=id226;Dbxref=GeneID:3783693;gbkey=TATA_signal;gene=BDLF2
+NC_007605.1	RefSeq	CDS	118839	120101	.	-	0	ID=cds66;Parent=gene107;Dbxref=UniProtKB/TrEMBL:Q777C4,Genbank:YP_401695.1,GeneID:3783693;Name=YP_401695.1;gbkey=CDS;gene=BDLF2;product=BDLF2 protein;protein_id=YP_401695.1
+NC_007605.1	RefSeq	gene	120112	121017	.	-	.	ID=gene108;Dbxref=GeneID:3783692;Name=BDLF1;gbkey=Gene;gene=BDLF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	120112	121017	.	-	0	ID=cds67;Parent=gene108;Dbxref=GOA:Q777C3,InterPro:IPR002690,UniProtKB/TrEMBL:Q777C3,Genbank:YP_401696.1,GeneID:3783692;Name=YP_401696.1;gbkey=CDS;gene=BDLF1;product=putative capsid protein vp23;protein_id=YP_401696.1
+NC_007605.1	RefSeq	gene	121019	121024	.	-	.	ID=gene109;Dbxref=GeneID:17494238;Name=BcLF1;gbkey=Gene;gene=BcLF1;gene_biotype=other
+NC_007605.1	RefSeq	region	121019	121024	.	-	.	ID=id227;Dbxref=GeneID:17494238;gbkey=polyA_signal;gene=BcLF1
+NC_007605.1	RefSeq	gene	121033	125178	.	-	.	ID=gene110;Dbxref=GeneID:3783688;Name=BcLF1;gbkey=Gene;gene=BcLF1;gene_biotype=protein_coding;locus_tag=HHV4_BcLF1
+NC_007605.1	RefSeq	CDS	121033	125178	.	-	0	ID=cds68;Parent=gene110;Dbxref=GOA:P03226,InterPro:IPR000912,UniProtKB/Swiss-Prot:P03226,Genbank:YP_401697.1,GeneID:3783688;Name=YP_401697.1;gbkey=CDS;gene=BcLF1;product=major capsid protein;protein_id=YP_401697.1
+NC_007605.1	RefSeq	gene	121059	121098	.	-	.	ID=gene111;Dbxref=GeneID:17494234;Name=BDLF1;gbkey=Gene;gene=BDLF1;gene_biotype=other;partial=true
+NC_007605.1	RefSeq	region	121059	121064	.	-	.	ID=id228;Dbxref=GeneID:17494234;gbkey=TATA_signal;gene=BDLF1
+NC_007605.1	RefSeq	region	121093	121098	.	-	.	ID=id229;Dbxref=GeneID:17494234;gbkey=TATA_signal;gene=BDLF1
+NC_007605.1	RefSeq	gene	125177	127429	.	+	.	ID=gene112;Dbxref=GeneID:3783690;Name=BcRF1;gbkey=Gene;gene=BcRF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	125177	127429	.	+	0	ID=cds69;Parent=gene112;Dbxref=InterPro:IPR004285,UniProtKB/TrEMBL:Q8AZJ6,Genbank:YP_401698.1,GeneID:3783690;Name=YP_401698.1;gbkey=CDS;gene=BcRF1;product=BcRF1 protein;protein_id=YP_401698.1
+NC_007605.1	RefSeq	sequence_feature	125730	125730	.	+	.	ID=id230;Dbxref=GeneID:3783690;Note=BAM: Bam H1 c/b;gbkey=misc_feature;gene=BcRF1
+NC_007605.1	RefSeq	sequence_feature	127063	127063	.	+	.	ID=id231;Dbxref=GeneID:3783690;Note=BAM: Bam H1 b/T;gbkey=misc_feature;gene=BcRF1
+NC_007605.1	RefSeq	region	125569	125574	.	+	.	ID=id232;Dbxref=GeneID:3783690;gbkey=TATA_signal;gene=BcRF1
+NC_007605.1	RefSeq	gene	125417	125422	.	-	.	ID=gene113;Dbxref=GeneID:17494237;Name=BcLF1;gbkey=Gene;gene=BcLF1;gene_biotype=other
+NC_007605.1	RefSeq	region	125417	125422	.	-	.	ID=id233;Dbxref=GeneID:17494237;gbkey=TATA_signal;gene=BcLF1
+NC_007605.1	RefSeq	gene	127353	128627	.	+	.	ID=gene114;Dbxref=GeneID:3783770;Name=BTRF1;end_range=128627,.;gbkey=Gene;gene=BTRF1;gene_biotype=protein_coding;locus_tag=HHV4_BTRF1;partial=true;start_range=.,127353
+NC_007605.1	RefSeq	CDS	127353	128627	.	+	0	ID=cds70;Parent=gene114;Dbxref=InterPro:IPR006772,UniProtKB/Swiss-Prot:P30119,Genbank:YP_401699.2,GeneID:3783770;Name=YP_401699.2;end_range=128627,.;gbkey=CDS;gene=BTRF1;partial=true;product=BTRF1 protein;protein_id=YP_401699.2;start_range=.,127353
+NC_007605.1	RefSeq	gene	128608	131021	.	-	.	ID=gene115;Dbxref=GeneID:3783742;Name=BXLF2;gbkey=Gene;gene=BXLF2;gene_biotype=protein_coding;locus_tag=HHV4_BXLF2;partial=true
+NC_007605.1	RefSeq	region	131016	131021	.	-	.	ID=id234;Dbxref=GeneID:3783742;gbkey=TATA_signal;gene=BXLF2
+NC_007605.1	RefSeq	CDS	128627	130747	.	-	0	ID=cds71;Parent=gene115;Dbxref=GOA:P03231,InterPro:IPR003493,UniProtKB/Swiss-Prot:P03231,Genbank:YP_401700.1,GeneID:3783742;Name=YP_401700.1;gbkey=CDS;gene=BXLF2;product=glycoprotein gp85 precursor;protein_id=YP_401700.1
+NC_007605.1	RefSeq	region	128608	128613	.	-	.	ID=id235;Dbxref=GeneID:3783742;gbkey=polyA_signal;gene=BXLF2
+NC_007605.1	RefSeq	region	128992	128997	.	-	.	ID=id236;Dbxref=GeneID:3783742;gbkey=polyA_signal;gene=BXLF2
+NC_007605.1	RefSeq	gene	128681	128686	.	+	.	ID=gene116;Dbxref=GeneID:17494193;Name=BcRF1;gbkey=Gene;gene=BcRF1;gene_biotype=other
+NC_007605.1	RefSeq	region	128681	128686	.	+	.	ID=id237;Dbxref=GeneID:17494193;gbkey=polyA_signal;gene=BcRF1
+NC_007605.1	RefSeq	gene	130749	132572	.	-	.	ID=gene117;Dbxref=GeneID:3783741;Name=BXLF1;gbkey=Gene;gene=BXLF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	130749	132572	.	-	0	ID=cds72;Parent=gene117;Dbxref=GOA:P03177,InterPro:IPR001889,InterPro:IPR002624,InterPro:IPR013672,UniProtKB/Swiss-Prot:P03177,Genbank:YP_401701.1,GeneID:3783741;Name=YP_401701.1;gbkey=CDS;gene=BXLF1;product=thymidine kinase;protein_id=YP_401701.1
+NC_007605.1	RefSeq	gene	132571	133317	.	+	.	ID=gene118;Dbxref=GeneID:3783743;Name=BXRF1;gbkey=Gene;gene=BXRF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	132571	133317	.	+	0	ID=cds73;Parent=gene118;Dbxref=InterPro:IPR002580,UniProtKB/TrEMBL:Q777B8,Genbank:YP_401702.1,GeneID:3783743;Name=YP_401702.1;gbkey=CDS;gene=BXRF1;product=BXRF1 protein;protein_id=YP_401702.1
+NC_007605.1	RefSeq	sequence_feature	132573	132573	.	+	.	ID=id238;Dbxref=GeneID:3783743;Note=BAM: Bam H1 X/V;gbkey=misc_feature;gene=BXRF1
+NC_007605.1	RefSeq	gene	132839	132846	.	-	.	ID=gene119;Dbxref=GeneID:17494194;Name=BXLF1;gbkey=Gene;gene=BXLF1;gene_biotype=other
+NC_007605.1	RefSeq	region	132839	132846	.	-	.	ID=id239;Dbxref=GeneID:17494194;gbkey=TATA_signal;gene=BXLF1
+NC_007605.1	RefSeq	gene	133013	134886	.	+	.	ID=gene120;Dbxref=GeneID:3783732;Name=BVRF1;gbkey=Gene;gene=BVRF1;gene_biotype=protein_coding;locus_tag=HHV4_BVRF1;partial=true
+NC_007605.1	RefSeq	region	133013	133017	.	+	.	ID=id240;Dbxref=GeneID:3783732;gbkey=TATA_signal;gene=BVRF1
+NC_007605.1	RefSeq	CDS	133127	134839	.	+	0	ID=cds74;Parent=gene120;Dbxref=InterPro:IPR002493,UniProtKB/TrEMBL:Q777B7,Genbank:YP_401703.1,GeneID:3783732;Name=YP_401703.1;gbkey=CDS;gene=BVRF1;product=virion protein BVRF1;protein_id=YP_401703.1
+NC_007605.1	RefSeq	region	134881	134886	.	+	.	ID=id241;Dbxref=GeneID:3783732;gbkey=polyA_signal;gene=BVRF1
+NC_007605.1	RefSeq	gene	134809	135627	.	-	.	ID=gene121;Dbxref=GeneID:17494191;Name=BVLF1;gbkey=Gene;gene=BVLF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	134809	135627	.	-	0	ID=cds75;Parent=gene121;Dbxref=Genbank:YP_007474187.1,GeneID:17494191;Name=YP_007474187.1;Note=related to HHV-5 UL79%3B~ORF18;gbkey=CDS;gene=BVLF1;product=BVLF1;protein_id=YP_007474187.1
+NC_007605.1	RefSeq	gene	135432	135436	.	+	.	ID=gene122;Dbxref=GeneID:17494190;Name=BVRF2;gbkey=Gene;gene=BVRF2;gene_biotype=other
+NC_007605.1	RefSeq	region	135432	135436	.	+	.	ID=id242;Dbxref=GeneID:17494190;gbkey=TATA_signal;gene=BVRF2
+NC_007605.1	RefSeq	gene	135638	137455	.	+	.	ID=gene123;Dbxref=GeneID:3783733;Name=BVRF2;gbkey=Gene;gene=BVRF2;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	135638	137455	.	+	0	ID=cds76;Parent=gene123;Dbxref=GOA:P03234,InterPro:IPR001847,PDB:1O6E,UniProtKB/Swiss-Prot:P03234,Genbank:YP_401704.1,GeneID:3783733;Name=YP_401704.1;gbkey=CDS;gene=BVRF2;product=capsid protein P40;protein_id=YP_401704.1
+NC_007605.1	RefSeq	sequence_feature	135718	135718	.	+	.	ID=id243;Dbxref=GeneID:3783733;Note=BAM: Bam H1 V/d;gbkey=misc_feature;gene=BVRF2
+NC_007605.1	RefSeq	STS	136046	136337	.	+	.	ID=id244;Dbxref=UniSTS:184380,GeneID:3783733;gbkey=STS;gene=BVRF2;standard_name=SHGC-154725
+NC_007605.1	RefSeq	gene	136331	137455	.	+	.	ID=gene124;Dbxref=GeneID:3783696;Name=BdRF1;gbkey=Gene;gene=BdRF1;gene_biotype=protein_coding;locus_tag=HHV4_BdRF1;partial=true
+NC_007605.1	RefSeq	CDS	136418	137455	.	+	0	ID=cds77;Parent=gene124;Dbxref=GOA:Q66541,InterPro:IPR001847,UniProtKB/TrEMBL:Q66541,Genbank:YP_401705.1,GeneID:3783696;Name=YP_401705.1;gbkey=CDS;gene=BdRF1;product=scaffold protein;protein_id=YP_401705.1
+NC_007605.1	RefSeq	sequence_feature	136826	136826	.	+	.	ID=id245;Dbxref=GeneID:3783696;Note=BAM: Bam H1 d/I;gbkey=misc_feature;gene=BdRF1
+NC_007605.1	RefSeq	region	137438	137443	.	+	.	ID=id246;Dbxref=GeneID:3783696;gbkey=polyA_signal;gene=BdRF1
+NC_007605.1	RefSeq	region	136331	136336	.	+	.	ID=id247;Dbxref=GeneID:3783696;gbkey=TATA_signal;gene=BdRF1
+NC_007605.1	RefSeq	gene	137464	138282	.	-	.	ID=gene125;Dbxref=GeneID:3783708;Name=BILF2;gbkey=Gene;gene=BILF2;gene_biotype=protein_coding;locus_tag=HHV4_BILF2;partial=true
+NC_007605.1	RefSeq	CDS	137490	138236	.	-	0	ID=cds78;Parent=gene125;Dbxref=InterPro:IPR003599,InterPro:IPR007110,InterPro:IPR013106,InterPro:IPR013783,UniProtKB/TrEMBL:Q777B4,Genbank:YP_401706.1,GeneID:3783708;Name=YP_401706.1;gbkey=CDS;gene=BILF2;product=probable membrane glycoprotein;protein_id=YP_401706.1
+NC_007605.1	RefSeq	region	137464	137469	.	-	.	ID=id248;Dbxref=GeneID:3783708;gbkey=polyA_signal;gene=BILF2
+NC_007605.1	RefSeq	region	138277	138282	.	-	.	ID=id249;Dbxref=GeneID:3783708;gbkey=TATA_signal;gene=BILF2
+NC_007605.1	RefSeq	gene	138352	160531	.	+	.	ID=gene126;Dbxref=GeneID:3783757;Name=RPMS1;gbkey=Gene;gene=RPMS1;gene_biotype=protein_coding;locus_tag=HHV4_RPMS1;partial=true
+NC_007605.1	RefSeq	mRNA	138352	160531	.	+	.	ID=rna9;Parent=gene126;Dbxref=GeneID:3783757;gbkey=mRNA;gene=RPMS1
+NC_007605.1	RefSeq	exon	138352	138480	.	+	.	ID=id250;Parent=rna9;Dbxref=GeneID:3783757;gbkey=mRNA;gene=RPMS1
+NC_007605.1	RefSeq	exon	149581	149712	.	+	.	ID=id251;Parent=rna9;Dbxref=GeneID:3783757;gbkey=mRNA;gene=RPMS1
+NC_007605.1	RefSeq	exon	149923	150077	.	+	.	ID=id252;Parent=rna9;Dbxref=GeneID:3783757;gbkey=mRNA;gene=RPMS1
+NC_007605.1	RefSeq	exon	150237	150348	.	+	.	ID=id253;Parent=rna9;Dbxref=GeneID:3783757;gbkey=mRNA;gene=RPMS1
+NC_007605.1	RefSeq	exon	155267	156737	.	+	.	ID=id254;Parent=rna9;Dbxref=GeneID:3783757;gbkey=mRNA;gene=RPMS1
+NC_007605.1	RefSeq	exon	156846	156928	.	+	.	ID=id255;Parent=rna9;Dbxref=GeneID:3783757;gbkey=mRNA;gene=RPMS1
+NC_007605.1	RefSeq	exon	158625	160531	.	+	.	ID=id256;Parent=rna9;Dbxref=GeneID:3783757;gbkey=mRNA;gene=RPMS1
+NC_007605.1	RefSeq	CDS	150323	150348	.	+	0	ID=cds79;Parent=rna9;Dbxref=UniProtKB/Swiss-Prot:Q9Q2P0,Genbank:YP_401710.1,GeneID:3783757;Name=YP_401710.1;gbkey=CDS;gene=RPMS1;product=RPMS1 protein;protein_id=YP_401710.1
+NC_007605.1	RefSeq	CDS	155267	155552	.	+	1	ID=cds79;Parent=rna9;Dbxref=UniProtKB/Swiss-Prot:Q9Q2P0,Genbank:YP_401710.1,GeneID:3783757;Name=YP_401710.1;gbkey=CDS;gene=RPMS1;product=RPMS1 protein;protein_id=YP_401710.1
+NC_007605.1	RefSeq	transcript	139351	139371	.	+	.	ID=rna10;Parent=gene126;Dbxref=GeneID:3783757;Note=miBART-1%3B~microRNA BART-1%3B~transcribed as larger precursor%2C predicted to form hairpin;gbkey=misc_RNA;gene=RPMS1
+NC_007605.1	RefSeq	exon	139351	139371	.	+	.	ID=id257;Parent=rna10;Dbxref=GeneID:3783757;Note=miBART-1%3B~microRNA BART-1%3B~transcribed as larger precursor%2C predicted to form hairpin;gbkey=misc_RNA;gene=RPMS1
+NC_007605.1	RefSeq	sequence_feature	139723	151555	.	+	.	ID=id258;Dbxref=GeneID:3783757;Note=DEL: B95-8 deletion with respect to Raji;end_range=151555,.;gbkey=misc_feature;gene=RPMS1;partial=true
+NC_007605.1	RefSeq	sequence_feature	139724	151554	.	+	.	ID=id259;Dbxref=GeneID:3783757;Note=5-11835 of Raji DNA restoring the B95-8 deletion sequence;gbkey=misc_feature;gene=RPMS1
+NC_007605.1	RefSeq	sequence_feature	143272	144328	.	+	.	ID=id260;Dbxref=GeneID:3783757;Note=DR right%2C similar to 40366..41409%2C ori lyt;gbkey=misc_feature;gene=RPMS1
+NC_007605.1	RefSeq	sequence_feature	153179	153179	.	+	.	ID=id261;Dbxref=GeneID:3783757;Note=HPN: 22bp 2-fold symmetric;gbkey=misc_feature;gene=RPMS1
+NC_007605.1	RefSeq	sequence_feature	154289	154289	.	+	.	ID=id262;Dbxref=GeneID:3783757;Note=BAM: Bam H1 I/A;gbkey=misc_feature;gene=RPMS1
+NC_007605.1	RefSeq	region	139478	139483	.	+	.	ID=id263;Dbxref=GeneID:3783757;Note=unknown gene;gbkey=polyA_signal;gene=RPMS1
+NC_007605.1	RefSeq	repeat_region	138947	139329	.	+	.	ID=id264;Dbxref=GeneID:3783757;gbkey=repeat_region;gene=RPMS1
+NC_007605.1	RefSeq	repeat_region	140765	143281	.	+	.	ID=id265;Dbxref=GeneID:3783757;gbkey=repeat_region;gene=RPMS1;rpt_family=PstI repeats
+NC_007605.1	RefSeq	origin_of_replication	143207	144444	.	+	.	ID=id266;Dbxref=GeneID:3783757;Note=OriLyt%2C lytic origin of replication;gbkey=rep_origin;gene=RPMS1
+NC_007605.1	RefSeq	region	139724	151554	.	+	.	ID=id267;Dbxref=GeneID:3783757;gbkey=Src;gene=RPMS1
+NC_007605.1	RefSeq	gene	139486	139491	.	-	.	ID=gene127;Dbxref=GeneID:17494209;Name=possible start for 2kb RNAs crossing BILF2;gbkey=Gene;gene=possible start for 2kb RNAs crossing BILF2;gene_biotype=other
+NC_007605.1	RefSeq	region	139486	139491	.	-	.	ID=id268;Dbxref=GeneID:17494209;gbkey=TATA_signal;gene=possible start for 2kb RNAs crossing BILF2
+NC_007605.1	RefSeq	gene	140570	143344	.	-	.	ID=gene128;Dbxref=GeneID:3783749;Name=LF3;gbkey=Gene;gene=LF3;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	140570	143344	.	-	0	ID=cds80;Parent=gene128;Dbxref=UniProtKB/Swiss-Prot:P0C727,Genbank:YP_401707.1,GeneID:3783749;Name=YP_401707.1;gbkey=CDS;gene=LF3;product=LF3 protein;protein_id=YP_401707.1
+NC_007605.1	RefSeq	gene	149035	150324	.	-	.	ID=gene129;Dbxref=GeneID:3783748;Name=LF2;gbkey=Gene;gene=LF2;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	149035	150324	.	-	0	ID=cds81;Parent=gene129;Dbxref=GOA:P0C725,InterPro:IPR006882,UniProtKB/Swiss-Prot:P0C725,Genbank:YP_401708.1,GeneID:3783748;Name=YP_401708.1;gbkey=CDS;gene=LF2;product=LF2 protein;protein_id=YP_401708.1
+NC_007605.1	RefSeq	gene	150285	151694	.	-	.	ID=gene130;Dbxref=GeneID:3783747;Name=LF1;gbkey=Gene;gene=LF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	150285	151694	.	-	0	ID=cds82;Parent=gene130;Dbxref=InterPro:IPR006882,UniProtKB/Swiss-Prot:Q8AZJ5,Genbank:YP_401709.1,GeneID:3783747;Name=YP_401709.1;gbkey=CDS;gene=LF1;product=LF1 protein;protein_id=YP_401709.1
+NC_007605.1	RefSeq	gene	151703	152641	.	-	.	ID=gene131;Dbxref=GeneID:3783707;Name=BILF1;gbkey=Gene;gene=BILF1;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	151703	152641	.	-	0	ID=cds83;Parent=gene131;Dbxref=UniProtKB/TrEMBL:Q777B2,Genbank:YP_401711.1,GeneID:3783707;Name=YP_401711.1;gbkey=CDS;gene=BILF1;product=membrane protein;protein_id=YP_401711.1
+NC_007605.1	RefSeq	gene	152747	152768	.	+	.	ID=gene132;Dbxref=GeneID:17494253;Name=miBART-2;gbkey=Gene;gene=miBART-2;gene_biotype=misc_RNA;gene_synonym=microRNA BART-2
+NC_007605.1	RefSeq	transcript	152747	152768	.	+	.	ID=rna11;Parent=gene132;Dbxref=GeneID:17494253;Note=transcribed as larger precursor%2C predicted to form hairpin;gbkey=misc_RNA;gene=miBART-2
+NC_007605.1	RefSeq	exon	152747	152768	.	+	.	ID=id269;Parent=rna11;Dbxref=GeneID:17494253;Note=transcribed as larger precursor%2C predicted to form hairpin;gbkey=misc_RNA;gene=miBART-2
+NC_007605.1	RefSeq	gene	152796	152801	.	+	.	ID=gene133;Dbxref=GeneID:17494205;Name=BALF5;gbkey=Gene;gene=BALF5;gene_biotype=other
+NC_007605.1	RefSeq	region	152796	152801	.	+	.	ID=id270;Dbxref=GeneID:17494205;gbkey=polyA_signal;gene=BALF5
+NC_007605.1	RefSeq	gene	153241	156288	.	-	.	ID=gene134;Dbxref=GeneID:3783681;Name=BALF5;gbkey=Gene;gene=BALF5;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	153241	156288	.	-	0	ID=cds84;Parent=gene134;Dbxref=GOA:P03198,InterPro:IPR006133,InterPro:IPR006134,InterPro:IPR006172,InterPro:IPR012337,InterPro:IPR017964,PDB:1H15,UniProtKB/Swiss-Prot:P03198,Genbank:YP_401712.1,GeneID:3783681;Name=YP_401712.1;gbkey=CDS;gene=BALF5;product=DNA polymerase;protein_id=YP_401712.1
+NC_007605.1	RefSeq	gene	155549	160531	.	+	.	ID=gene135;Dbxref=GeneID:3783676;Name=A73;gbkey=Gene;gene=A73;gene_biotype=protein_coding;locus_tag=HHV4_A73;partial=true
+NC_007605.1	RefSeq	mRNA	155549	160531	.	+	.	ID=rna12;Parent=gene135;Dbxref=GeneID:3783676;gbkey=mRNA;gene=A73
+NC_007605.1	RefSeq	exon	155549	156737	.	+	.	ID=id271;Parent=rna12;Dbxref=GeneID:3783676;gbkey=mRNA;gene=A73
+NC_007605.1	RefSeq	exon	156846	156928	.	+	.	ID=id272;Parent=rna12;Dbxref=GeneID:3783676;gbkey=mRNA;gene=A73
+NC_007605.1	RefSeq	exon	158625	158751	.	+	.	ID=id273;Parent=rna12;Dbxref=GeneID:3783676;gbkey=mRNA;gene=A73
+NC_007605.1	RefSeq	exon	159781	160531	.	+	.	ID=id274;Parent=rna12;Dbxref=GeneID:3783676;gbkey=mRNA;gene=A73
+NC_007605.1	RefSeq	CDS	156652	156737	.	+	0	ID=cds85;Parent=rna12;Dbxref=UniProtKB/TrEMBL:Q9Q2P1,Genbank:YP_401714.1,GeneID:3783676;Name=YP_401714.1;gbkey=CDS;gene=A73;product=A73 protein;protein_id=YP_401714.1
+NC_007605.1	RefSeq	CDS	156846	156928	.	+	1	ID=cds85;Parent=rna12;Dbxref=UniProtKB/TrEMBL:Q9Q2P1,Genbank:YP_401714.1,GeneID:3783676;Name=YP_401714.1;gbkey=CDS;gene=A73;product=A73 protein;protein_id=YP_401714.1
+NC_007605.1	RefSeq	CDS	158625	158751	.	+	2	ID=cds85;Parent=rna12;Dbxref=UniProtKB/TrEMBL:Q9Q2P1,Genbank:YP_401714.1,GeneID:3783676;Name=YP_401714.1;gbkey=CDS;gene=A73;product=A73 protein;protein_id=YP_401714.1
+NC_007605.1	RefSeq	CDS	159781	159865	.	+	1	ID=cds85;Parent=rna12;Dbxref=UniProtKB/TrEMBL:Q9Q2P1,Genbank:YP_401714.1,GeneID:3783676;Name=YP_401714.1;gbkey=CDS;gene=A73;product=A73 protein;protein_id=YP_401714.1
+NC_007605.1	RefSeq	gene	156244	158912	.	-	.	ID=gene136;Dbxref=GeneID:3783680;Name=BALF4;gbkey=Gene;gene=BALF4;gene_biotype=protein_coding;locus_tag=HHV4_BALF4;partial=true
+NC_007605.1	RefSeq	region	158907	158912	.	-	.	ID=id275;Dbxref=GeneID:3783680;gbkey=TATA_signal;gene=BALF4
+NC_007605.1	RefSeq	CDS	156291	158864	.	-	0	ID=cds86;Parent=gene136;Dbxref=GOA:P03188,InterPro:IPR000234,PDB:3FVC,UniProtKB/Swiss-Prot:P03188,Genbank:YP_401713.1,GeneID:3783680;Name=YP_401713.1;gbkey=CDS;gene=BALF4;product=glycoprotein gp110 precursor;protein_id=YP_401713.1
+NC_007605.1	RefSeq	region	156244	156249	.	-	.	ID=id276;Dbxref=GeneID:3783680;gbkey=polyA_signal;gene=BALF4
+NC_007605.1	RefSeq	gene	158851	161220	.	-	.	ID=gene137;Dbxref=GeneID:3783679;Name=BALF3;end_range=161220,.;gbkey=Gene;gene=BALF3;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	CDS	158851	161220	.	-	0	ID=cds87;Parent=gene137;Dbxref=GOA:Q777A8,InterPro:IPR000501,UniProtKB/TrEMBL:Q777A8,Genbank:YP_401715.2,GeneID:3783679;Name=YP_401715.2;end_range=161220,.;gbkey=CDS;gene=BALF3;partial=true;product=BALF3 protein;protein_id=YP_401715.2
+NC_007605.1	RefSeq	gene	159121	160536	.	+	.	ID=gene138;Dbxref=GeneID:3783682;Name=BARF0;gbkey=Gene;gene=BARF0;gene_biotype=protein_coding;locus_tag=HHV4_BARF0;partial=true;start_range=.,159121
+NC_007605.1	RefSeq	CDS	159121	160536	.	+	0	ID=cds88;Parent=gene138;Dbxref=UniProtKB/TrEMBL:Q8AZJ4,Genbank:YP_401716.1,GeneID:3783682;Name=YP_401716.1;gbkey=CDS;gene=BARF0;partial=true;product=putative BARF0 protein;protein_id=YP_401716.1;start_range=.,159121
+NC_007605.1	RefSeq	gene	160508	160513	.	+	.	ID=gene139;Dbxref=GeneID:17494229;Name=RPMS1 and A73 RNAs;gbkey=Gene;gene=RPMS1 and A73 RNAs;gene_biotype=other
+NC_007605.1	RefSeq	region	160508	160513	.	+	.	ID=id277;Dbxref=GeneID:17494229;gbkey=polyA_signal;gene=RPMS1 and A73 RNAs
+NC_007605.1	RefSeq	gene	160550	164356	.	-	.	ID=gene140;Dbxref=GeneID:3783678;Name=BALF2;gbkey=Gene;gene=BALF2;gene_biotype=protein_coding;locus_tag=HHV4_BALF2;partial=true
+NC_007605.1	RefSeq	region	160550	160555	.	-	.	ID=id278;Dbxref=GeneID:3783678;gbkey=polyA_signal;gene=BALF2
+NC_007605.1	RefSeq	CDS	160926	164312	.	-	0	ID=cds89;Parent=gene140;Dbxref=GOA:P03227,InterPro:IPR000635,UniProtKB/Swiss-Prot:P03227,Genbank:YP_401717.1,GeneID:3783678;Name=YP_401717.1;gbkey=CDS;gene=BALF2;product=major DNA-binding protein;protein_id=YP_401717.1
+NC_007605.1	RefSeq	region	164351	164356	.	-	.	ID=id279;Dbxref=GeneID:3783678;gbkey=TATA_signal;gene=BALF2
+NC_007605.1	RefSeq	gene	164388	165255	.	-	.	ID=gene141;Dbxref=GeneID:3783677;Name=BALF1;gbkey=Gene;gene=BALF1;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	CDS	164397	165059	.	-	0	ID=cds90;Parent=gene141;Dbxref=GOA:Q777A6,InterPro:IPR010677,UniProtKB/TrEMBL:Q777A6,Genbank:YP_401718.2,GeneID:3783677;Name=YP_401718.2;gbkey=CDS;gene=BALF1;product=hypothetical BALF1 protein;protein_id=YP_401718.2
+NC_007605.1	RefSeq	region	164388	164393	.	-	.	ID=id280;Dbxref=GeneID:3783677;gbkey=polyA_signal;gene=BALF1
+NC_007605.1	RefSeq	region	165250	165255	.	-	.	ID=id281;Dbxref=GeneID:3783677;gbkey=TATA_signal;gene=BALF1
+NC_007605.1	RefSeq	gene	164979	164984	.	+	.	ID=gene142;Dbxref=GeneID:17494228;Name=BALF2;gbkey=Gene;gene=BALF2;gene_biotype=other
+NC_007605.1	RefSeq	region	164979	164984	.	+	.	ID=id282;Dbxref=GeneID:17494228;gbkey=TATA_signal;gene=BALF2
+NC_007605.1	RefSeq	gene	165008	165712	.	+	.	ID=gene143;Dbxref=GeneID:3783772;Name=BARF1;gbkey=Gene;gene=BARF1;gene_biotype=protein_coding;locus_tag=HHV4_BARF1.2;partial=true
+NC_007605.1	RefSeq	CDS	165046	165711	.	+	0	ID=cds91;Parent=gene143;Dbxref=GOA:Q777A5,InterPro:IPR007110,InterPro:IPR013783,UniProtKB/TrEMBL:Q777A5,Genbank:YP_401719.1,GeneID:3783772;Name=YP_401719.1;gbkey=CDS;gene=BARF1;product=BARF1 protein;protein_id=YP_401719.1
+NC_007605.1	RefSeq	region	165707	165712	.	+	.	ID=id283;Dbxref=GeneID:3783772;gbkey=polyA_signal;gene=BARF1
+NC_007605.1	RefSeq	region	165008	165013	.	+	.	ID=id284;Dbxref=GeneID:3783772;gbkey=TATA_signal;gene=BARF1
+NC_007605.1	RefSeq	gene	166011	166458	.	+	.	ID=gene144;Dbxref=GeneID:17494231;Name=LMP2A;gbkey=Gene;gene=LMP2A;gene_biotype=other;partial=true
+NC_007605.1	RefSeq	exon	166040	166458	.	+	.	ID=id285;Parent=gene144;Dbxref=GeneID:17494231;exon_number=1;gbkey=exon;gene=LMP2A;number=1;product=LMP2A RNA
+NC_007605.1	RefSeq	sequence_feature	166156	166156	.	+	.	ID=id286;Dbxref=GeneID:17494231;Note=BAM: Bam H1 A/Nhet;gbkey=misc_feature;gene=LMP2A
+NC_007605.1	RefSeq	region	166011	166016	.	+	.	ID=id287;Dbxref=GeneID:17494231;gbkey=TATA_signal;gene=LMP2A
+NC_007605.1	RefSeq	gene	166461	169055	.	-	.	ID=gene145;Dbxref=GeneID:3783750;Name=LMP1;gbkey=Gene;gene=LMP1;gene_biotype=protein_coding;locus_tag=HHV4_LMP-1;partial=true
+NC_007605.1	RefSeq	CDS	168749	169016	.	-	0	ID=cds92;Parent=gene145;Dbxref=GOA:P03230,InterPro:IPR007961,PDB:1CZY,UniProtKB/Swiss-Prot:P03230,Genbank:YP_401722.1,GeneID:3783750;Name=YP_401722.1;gbkey=CDS;gene=LMP1;product=hypothetical protein;protein_id=YP_401722.1
+NC_007605.1	RefSeq	CDS	168584	168670	.	-	2	ID=cds92;Parent=gene145;Dbxref=GOA:P03230,InterPro:IPR007961,PDB:1CZY,UniProtKB/Swiss-Prot:P03230,Genbank:YP_401722.1,GeneID:3783750;Name=YP_401722.1;gbkey=CDS;gene=LMP1;product=hypothetical protein;protein_id=YP_401722.1
+NC_007605.1	RefSeq	CDS	167702	168507	.	-	2	ID=cds92;Parent=gene145;Dbxref=GOA:P03230,InterPro:IPR007961,PDB:1CZY,UniProtKB/Swiss-Prot:P03230,Genbank:YP_401722.1,GeneID:3783750;Name=YP_401722.1;gbkey=CDS;gene=LMP1;product=hypothetical protein;protein_id=YP_401722.1
+NC_007605.1	RefSeq	exon	166461	168507	.	-	.	ID=id288;Parent=gene145;Dbxref=GeneID:3783750;exon_number=c;gbkey=exon;gene=LMP1;number=c
+NC_007605.1	RefSeq	exon	168584	168670	.	-	.	ID=id289;Parent=gene145;Dbxref=GeneID:3783750;exon_number=b;gbkey=exon;gene=LMP1;number=b
+NC_007605.1	RefSeq	exon	168749	169055	.	-	.	ID=id290;Parent=gene145;Dbxref=GeneID:3783750;exon_number=a;gbkey=exon;gene=LMP1;number=a
+NC_007605.1	RefSeq	intron	168508	168583	.	-	.	ID=id291;Dbxref=GeneID:3783750;exon_number=b;gbkey=intron;gene=LMP1;number=b
+NC_007605.1	RefSeq	intron	168671	168748	.	-	.	ID=id292;Dbxref=GeneID:3783750;exon_number=a;gbkey=intron;gene=LMP1;number=a
+NC_007605.1	RefSeq	region	166483	166488	.	-	.	ID=id293;Dbxref=GeneID:3783750;gbkey=polyA_signal;gene=LMP1
+NC_007605.1	RefSeq	region	166487	166492	.	-	.	ID=id294;Dbxref=GeneID:3783750;gbkey=polyA_signal;gene=LMP1
+NC_007605.1	RefSeq	gene	166540	166845	.	-	.	ID=gene146;Dbxref=GeneID:3783721;Name=BNLF2b;end_range=166845,.;gbkey=Gene;gene=BNLF2b;gene_biotype=protein_coding;partial=true
+NC_007605.1	RefSeq	CDS	166540	166845	.	-	0	ID=cds93;Parent=gene146;Dbxref=UniProtKB/Swiss-Prot:Q8AZJ3,Genbank:YP_401720.2,GeneID:3783721;Name=YP_401720.2;end_range=166845,.;gbkey=CDS;gene=BNLF2b;partial=true;product=hypothetical BNLF2B protein;protein_id=YP_401720.2
+NC_007605.1	RefSeq	gene	166846	167028	.	-	.	ID=gene147;Dbxref=GeneID:3783720;Name=BNLF2a;gbkey=Gene;gene=BNLF2a;gene_biotype=protein_coding
+NC_007605.1	RefSeq	CDS	166846	167028	.	-	0	ID=cds94;Parent=gene147;Dbxref=GOA:P0C739,UniProtKB/Swiss-Prot:P0C739,Genbank:YP_401721.1,GeneID:3783720;Name=YP_401721.1;gbkey=CDS;gene=BNLF2a;product=hypothetical BNLF2A protein;protein_id=YP_401721.1
+NC_007605.1	RefSeq	gene	167062	167067	.	-	.	ID=gene148;Dbxref=GeneID:17494221;Name=BNLF2a;gbkey=Gene;gene=BNLF2a;gene_biotype=other;gene_synonym=BNLFb
+NC_007605.1	RefSeq	region	167062	167067	.	-	.	ID=id295;Dbxref=GeneID:17494221;gbkey=TATA_signal;gene=BNLF2a
+NC_007605.1	RefSeq	repeat_region	167941	168116	.	+	.	ID=id296;gbkey=repeat_region;rpt_unit_range=167941..167973
+NC_007605.1	RefSeq	gene	168738	168743	.	-	.	ID=gene149;Dbxref=GeneID:17494222;Name=lytic LMP1;gbkey=Gene;gene=lytic LMP1;gene_biotype=other
+NC_007605.1	RefSeq	region	168738	168743	.	-	.	ID=id297;Dbxref=GeneID:17494222;gbkey=TATA_signal;gene=lytic LMP1
+NC_007605.1	RefSeq	gene	169083	169088	.	-	.	ID=gene150;Dbxref=GeneID:17494204;Name=LMP1;gbkey=Gene;gene=LMP1;gene_biotype=other
+NC_007605.1	RefSeq	region	169083	169088	.	-	.	ID=id298;Dbxref=GeneID:17494204;gbkey=TATA_signal;gene=LMP1
+NC_007605.1	RefSeq	gene	169294	169448	.	+	.	ID=gene151;Dbxref=GeneID:17494203;Name=LMP2B;gbkey=Gene;gene=LMP2B;gene_biotype=other
+NC_007605.1	RefSeq	exon	169294	169448	.	+	.	ID=id299;Parent=gene151;Dbxref=GeneID:17494203;exon_number=1;gbkey=exon;gene=LMP2B;number=1;product=LMP2B RNA
+NC_007605.1	RefSeq	TERMINAL	169636	170173	.	+	.	ID=id300;gbkey=repeat_region;rpt_type=TERMINAL
+NC_007605.1	RefSeq	TERMINAL	170174	170696	.	+	.	ID=id301;gbkey=repeat_region;rpt_type=TERMINAL
+NC_007605.1	RefSeq	TERMINAL	170697	171234	.	+	.	ID=id302;gbkey=repeat_region;rpt_type=TERMINAL
+NC_007605.1	RefSeq	TERMINAL	171235	171773	.	+	.	ID=id303;gbkey=repeat_region;rpt_type=TERMINAL
+###
