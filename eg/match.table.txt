@@ -1,26 +1,26 @@
 transcript_id	gene_id	gene_name	gene_biotype	transcript_biotype	name
 rna0	gene0	LMP2	protein_coding	mRNA	LMP2
-gene0	gene0	LMP2	protein_coding	exon	LMP2
-gene4	gene4	EBNA	other	exon	EBNA
-gene6	gene6	EBNA-LP	protein_coding	exon	EBNA-LP
-gene14	gene14	EBNA-2	other	exon	EBNA-2
-gene15	gene15	EBNA-LP	other	exon	EBNA-LP
-gene17	gene17	EBNA-LP	other	exon	EBNA-LP
+gene0	gene0	LMP2	protein_coding	Gene	LMP2
+gene4	gene4	EBNA	other	Gene	EBNA
+gene6	gene6	EBNA-LP	protein_coding	Gene	EBNA-LP
+gene14	gene14	EBNA-2	other	Gene	EBNA-2
+gene15	gene15	EBNA-LP	other	Gene	EBNA-LP
+gene17	gene17	EBNA-LP	other	Gene	EBNA-LP
 rna1	gene20	miBHFR1-1	miRNA	ncRNA	miBHFR1-1
 rna2	gene22	miBHFR1-2*	miRNA	ncRNA	miBHFR1-2*
 rna3	gene23	miBHFR1-2	miRNA	ncRNA	miBHFR1-2
 rna4	gene24	miBHFR1-3	misc_RNA	misc_RNA	miBHFR1-3
-gene34	gene34	EBNA-1	other	exon	EBNA-1
+gene34	gene34	EBNA-1	other	Gene	EBNA-1
 rna5	gene64	EBNA3B	protein_coding	mRNA	EBNA3B
 rna6	gene66	EBNA3C	protein_coding	mRNA	EBNA3C
-gene67	gene67	EBNA1 leader sequence	other	exon	EBNA1 leader sequence
+gene67	gene67	EBNA1 leader sequence	other	Gene	EBNA1 leader sequence
 rna7	gene70	BRLF1	protein_coding	mRNA	BRLF1
 rna8	gene71	BZLF1	protein_coding	mRNA	BZLF1
-gene73	gene73	RZ fusion	other	exon	RZ fusion
+gene73	gene73	RZ fusion	other	Gene	RZ fusion
 rna9	gene126	RPMS1	protein_coding	mRNA	RPMS1
 rna10	gene126	RPMS1	protein_coding	misc_RNA	RPMS1
 rna11	gene132	miBART-2	misc_RNA	misc_RNA	miBART-2
 rna12	gene135	A73	protein_coding	mRNA	A73
-gene144	gene144	LMP2A	other	exon	LMP2A
-gene145	gene145	LMP1	protein_coding	exon	LMP1
-gene151	gene151	LMP2B	other	exon	LMP2B
+gene144	gene144	LMP2A	other	Gene	LMP2A
+gene145	gene145	LMP1	protein_coding	Gene	LMP1
+gene151	gene151	LMP2B	other	Gene	LMP2B
