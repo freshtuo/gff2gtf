@@ -105,7 +105,7 @@ for k,elements in enumerate(gff):# each entry
 	# add transcript info to match table
 	if tspid not in mtable:
 		tsps.append(tspid)
-		mtable[tspid] = [tspid, gid, gname, gbiotype, tbiotype, aname]
+		mtable[tspid] = [tspid, gid, aname, gbiotype, tbiotype, gname]
 	##print "; ".join([parent, name, gbkey, gene, biotype])
 	##print "; ".join([tp, ancestry])
 	##print "; ".join([gid, tspid, gname, gbiotype, tbiotype])
@@ -113,7 +113,7 @@ for k,elements in enumerate(gff):# each entry
 	# output the first 8 columns
 	fout.write("\t".join(elements[:8])+"\t")
 	# add attributes
-	fout.write('gene_id "%s"; transcript_id "%s"; gene_name "%s"; gene_biotype "%s"; transcript_biotype "%s";\n'%(gid,tspid,gname,gbiotype,tbiotype))
+	fout.write('gene_id "%s"; transcript_id "%s"; gene_name "%s"; gene_biotype "%s"; transcript_biotype "%s";\n'%(gid,tspid,aname,gbiotype,tbiotype))
 fout.close()
 
 # output match table
