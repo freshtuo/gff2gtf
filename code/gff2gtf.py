@@ -99,7 +99,7 @@ for k,elements in enumerate(gff):# each entry
 	# gene_name <-- 'gene' of ancestry entry
 	gname = items[ancestry][3]
 	# transcript_biotype <-- 'gbkey' of parent entry
-	tbiotype = gbkey
+	tbiotype = items[parent][2]
 	# aname <-- 'name' of ancestry entry
 	aname = items[ancestry][1]
 	# add transcript info to match table
